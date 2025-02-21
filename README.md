@@ -1,4 +1,4 @@
-# Web-Extraction
+# Furniture Data Web-Extraction
 Web Extraction using Python, Beautiful Soup and Selenium.
 
 Extracted detailed data from Furniture Websites:
