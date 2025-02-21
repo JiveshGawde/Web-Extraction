@@ -1,0 +1,4724 @@
+[
+    {
+        "name": "Solar",
+        "designer": "Faye Toogood",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/solar/",
+        "description": "Calm and sophisticated manifesto of contemporary style, Solar sits at the heart of Toogood’s Cosmic collection. An upholstered sofa that at first glance",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Solar-Sofa.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 240,
+                "depth": 240,
+                "height": 110,
+                "seat_height": 78
+            },
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 90,
+                "height": 200,
+                "seat_height": 70
+            }
+        ],
+        "materials": [
+            "Solar sofa: wooden frame, cold-foam padding covered with polyurethane foam in different densities, recycled PET fiber padding. Not removable cover.",
+            "Solar daybed: wooden frame covered with polyurethane foam at different densities, recycled PET fiber padding. Not removable cover."
+        ],
+        "id": 1
+    },
+    {
+        "name": "Additional System",
+        "designer": "Joe Colombo",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/additional-system-sofa/",
+        "description": "Modules with unusual shapes give life to original seating configurations where aggregation and variability take center stage. Additional System is a",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Additional-System-Daybed.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 180,
+                "depth": 90,
+                "height": 180,
+                "seat_height": 53
+            }
+        ],
+        "materials": [
+            "Wood frame covered with polyurethane foam in different densities.",
+            "Base and inserts made of aluminum.",
+            "Covers made of leather or fabric.",
+            "Removable cover."
+        ],
+        "id": 2
+    },
+    {
+        "name": "Le Mura",
+        "designer": "Mario Bellini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/le-mura/",
+        "description": "The project Le Mura by Mario Bellini represents the manifesto of a radical design that went through all the Italian 70s: design was as an answer to",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/06/Tacchini-LeMura-Armchair.svg",
+        "dimensions": [
+            {
+                "code": "ArmchairCod.",
+                "width": 120,
+                "depth": 128,
+                "height": 100,
+                "seat_height": 66
+            },
+            {
+                "code": "Right",
+                "width": 120,
+                "depth": 120,
+                "height": 128,
+                "seat_height": 100
+            },
+            {
+                "code": "Left",
+                "width": 120,
+                "depth": 120,
+                "height": 128,
+                "seat_height": 100
+            },
+            {
+                "code": "Right",
+                "width": 90,
+                "depth": 90,
+                "height": 96,
+                "seat_height": 100
+            },
+            {
+                "code": "Left",
+                "width": 90,
+                "depth": 90,
+                "height": 96,
+                "seat_height": 100
+            },
+            {
+                "code": "Central",
+                "width": 90,
+                "depth": 90,
+                "height": 96,
+                "seat_height": 100
+            },
+            {
+                "code": "OttomanCod.",
+                "width": 90,
+                "depth": 96,
+                "height": 96,
+                "seat_height": 44
+            }
+        ],
+        "materials": [
+            "Upholstery: removable.",
+            "Clasp and zipper:"
+        ],
+        "id": 3
+    },
+    {
+        "name": "Victoria",
+        "designer": "David/Nicolas",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/victoria-sofa/",
+        "description": "Lebanese design duo David/Nicolas are behind this modular system comprising armchairs, corner sofas, chaises longues and ottomans offering luxurious",
+        "image": "https://www.tacchini.it/wp-content/uploads/2021/11/Tacchini-2021-Victoria-ChaiseLongue-OVIC1430.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1430,
+                "depth": 80,
+                "height": 143,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 1431,
+                "depth": 84,
+                "height": 143,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 1431,
+                "depth": 84,
+                "height": 143,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 1432,
+                "depth": 88,
+                "height": 143,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 900,
+                "depth": 80,
+                "height": 90,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 901,
+                "depth": 84,
+                "height": 90,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 901,
+                "depth": 84,
+                "height": 90,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 902,
+                "depth": 88,
+                "height": 90,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 900,
+                "depth": 60,
+                "height": 81,
+                "seat_height": 4
+            },
+            {
+                "code": "Cod.",
+                "width": 901,
+                "depth": 64,
+                "height": 85,
+                "seat_height": 4
+            },
+            {
+                "code": "Cod.",
+                "width": 901,
+                "depth": 64,
+                "height": 85,
+                "seat_height": 4
+            },
+            {
+                "code": "Cod.",
+                "width": 902,
+                "depth": 68,
+                "height": 89,
+                "seat_height": 4
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 80,
+                "height": 78,
+                "seat_height": 78
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 50,
+                "height": 50,
+                "seat_height": 78
+            }
+        ],
+        "materials": [
+            "Internal structure: 18 mm thick poplar plywood, with 45 × 45 mm solid fir crosspieces with elastic straps.",
+            "Padding: multi-density polyurethane foam, last layer in memory foam.",
+            "Structure: iron tube Ø 40 mm, chromed or painted in different colors.",
+            "Cover: not removable.",
+            "Structure:",
+            "Top:"
+        ],
+        "id": 4
+    },
+    {
+        "name": "Orsola",
+        "designer": "Gastone Rinaldi",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/orsola/",
+        "description": "Roundness and comfort. Tradition and innovation. These are the keywords of Orsola, designed in 1970 by Gastone Rinaldi. The new edition stays true to its",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/01/Tacchini-2021-Orsola-Sofa-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 240,
+                "depth": 240,
+                "height": 99,
+                "seat_height": 70
+            },
+            {
+                "code": "Cod.",
+                "width": 170,
+                "depth": 170,
+                "height": 99,
+                "seat_height": 70
+            }
+        ],
+        "materials": [
+            "Internal structure: 18 mm thick poplar plywood, with 45 × 45 mm solid fir crosspieces with elastic straps.",
+            "Padding: polyurethane foam in different densities.",
+            "Structure: T23 polished chrome iron tube.",
+            "Cover: not removable.",
+            "Structure:"
+        ],
+        "id": 5
+    },
+    {
+        "name": "Julep",
+        "designer": "Jonas Wagell",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/julep/",
+        "description": "Soft, enveloping shapes characterize this family of upholstered pieces. Julep is influenced by the 1950s Avant-Garde movement, drawing upon its simplicity",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/Julep-1.svg",
+        "dimensions": [
+            {
+                "code": "SofaCod.",
+                "width": 240,
+                "depth": 240,
+                "height": 126,
+                "seat_height": 75
+            },
+            {
+                "code": "Chaise-longueCod.",
+                "width": 208,
+                "depth": 208,
+                "height": 121,
+                "seat_height": 76
+            },
+            {
+                "code": "IslandCod.",
+                "width": 174,
+                "depth": 174,
+                "height": 137,
+                "seat_height": 75
+            },
+            {
+                "code": "ArmchairCod.",
+                "width": 102,
+                "depth": 102,
+                "height": 5,
+                "seat_height": 87
+            },
+            {
+                "code": "OttomanCod.",
+                "width": 120,
+                "depth": 120,
+                "height": 92,
+                "seat_height": 42
+            },
+            {
+                "code": "OttomanCod.",
+                "width": 68,
+                "depth": 68,
+                "height": 66,
+                "seat_height": 42
+            }
+        ],
+        "materials": [
+            "Internal frame: poplar and birch plywood 18 mm thick, with elastic belts.",
+            "Padding: cold foam.",
+            "Base: poplar plywood 3 mm thick covered with the same fabric of the product.",
+            "Upholstery: non removable cover.",
+            "Notes: the products cannot be realized in Leather, Super Leather, Aniline Leather and Vinyl.",
+            "® Registered Design"
+        ],
+        "id": 6
+    },
+    {
+        "name": "Julep Chaise-longue",
+        "designer": "Jonas Wagell",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/julep-chaise-longue/",
+        "description": "Organic and versatile in shape, the new Julep, by designer Jonas Wagell, is a natural extension, in both practicality and beauty, of the existing range of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/06/Julep-Chaiselongue-R.svg",
+        "dimensions": [
+            {
+                "code": "Chaise-longueCod.",
+                "width": 208,
+                "depth": 208,
+                "height": 121,
+                "seat_height": 76
+            },
+            {
+                "code": "SofaCod.",
+                "width": 240,
+                "depth": 240,
+                "height": 126,
+                "seat_height": 75
+            },
+            {
+                "code": "IslandCod.",
+                "width": 174,
+                "depth": 174,
+                "height": 137,
+                "seat_height": 75
+            },
+            {
+                "code": "ArmchairCod.",
+                "width": 102,
+                "depth": 102,
+                "height": 5,
+                "seat_height": 87
+            },
+            {
+                "code": "OttomanCod.",
+                "width": 120,
+                "depth": 120,
+                "height": 92,
+                "seat_height": 42
+            },
+            {
+                "code": "OttomanCod.",
+                "width": 68,
+                "depth": 68,
+                "height": 66,
+                "seat_height": 42
+            }
+        ],
+        "materials": [
+            "Internal frame: poplar and birch plywood 18 mm thick, with elastic belts.",
+            "Padding: cold foam.",
+            "Base: poplar plywood 3 mm thick covered with the same fabric of the product.",
+            "Upholstery: non removable cover.",
+            "Notes: the products cannot be realized in Leather, Super Leather, Aniline Leather and Vinyl.",
+            "® Registered Design"
+        ],
+        "id": 7
+    },
+    {
+        "name": "Julep Island",
+        "designer": "Jonas Wagell",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/julep-island/",
+        "description": "Soft, enveloping shapes characterize this family of upholstered pieces. Julep is influenced by the 1950s Avant-Garde movement, drawing upon its simplicity",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/Julep-2.svg",
+        "dimensions": [
+            {
+                "code": "IslandCod.",
+                "width": 174,
+                "depth": 174,
+                "height": 137,
+                "seat_height": 75
+            },
+            {
+                "code": "SofaCod.",
+                "width": 240,
+                "depth": 240,
+                "height": 126,
+                "seat_height": 75
+            },
+            {
+                "code": "Chaise-longueCod.",
+                "width": 208,
+                "depth": 208,
+                "height": 121,
+                "seat_height": 76
+            },
+            {
+                "code": "ArmchairCod.",
+                "width": 102,
+                "depth": 102,
+                "height": 5,
+                "seat_height": 87
+            },
+            {
+                "code": "OttomanCod.",
+                "width": 120,
+                "depth": 120,
+                "height": 92,
+                "seat_height": 42
+            },
+            {
+                "code": "OttomanCod.",
+                "width": 68,
+                "depth": 68,
+                "height": 66,
+                "seat_height": 42
+            }
+        ],
+        "materials": [
+            "Internal frame: poplar and birch plywood 18 mm thick, with elastic belts.",
+            "Padding: cold foam.",
+            "Base: poplar plywood 3 mm thick covered with the same fabric of the product.",
+            "Upholstery: non removable cover.",
+            "Notes: the products cannot be realized in Leather, Super Leather, Aniline Leather and Vinyl.",
+            "® Registered Design"
+        ],
+        "id": 8
+    },
+    {
+        "name": "Roma Nuvola",
+        "designer": "Jonas Wagell",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/roma-nuvola/",
+        "description": "Part of the Roma family, the collection of sofas inspired by the soft sign of a hemicycle curve signed by Jonas Wagell – Roma Nuvola makes the “classic”",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Roma-Nuvola-02.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 245,
+                "depth": 248,
+                "height": 144,
+                "seat_height": 77
+            },
+            {
+                "code": "Cod.",
+                "width": 245,
+                "depth": 248,
+                "height": 144,
+                "seat_height": 77
+            }
+        ],
+        "materials": [
+            "Feet"
+        ],
+        "id": 9
+    },
+    {
+        "name": "Roma",
+        "designer": "Jonas Wagell",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/roma/",
+        "description": "Almost suspended above the floor, with the slenderest of legs upholding a large, cosy seat. Jonas Wagell imagines a family of sofas, inspired by the soft,",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Roma-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 234,
+                "depth": 234,
+                "height": 5,
+                "seat_height": 121
+            },
+            {
+                "code": "Cod.",
+                "width": 106,
+                "depth": 106,
+                "height": 3,
+                "seat_height": 88
+            }
+        ],
+        "materials": [
+            "Internal frame: 18 mm thick birch plywood and 25 mm thick poplar plywood with elastic belts.",
+            "Padding: differentiated - density polyurethane foam",
+            "Base: tubular metal feet Ø 16 mm. Powder-coated painted or chromed.",
+            "Upholstery: not removable.",
+            "Base:"
+        ],
+        "id": 10
+    },
+    {
+        "name": "Grand Sesann",
+        "designer": "Gianfranco Frattini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/grand-sesann/",
+        "description": "Sesann is reborn in new dimensions to offer greater comfort and sensuality with a deep and welcoming seat that further enhances the important volumes of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/02/GrandSesann-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 265,
+                "depth": 265,
+                "height": 107,
+                "seat_height": 67
+            },
+            {
+                "code": "Cod.",
+                "width": 240,
+                "depth": 240,
+                "height": 94,
+                "seat_height": 67
+            },
+            {
+                "code": "Cod.",
+                "width": 180,
+                "depth": 180,
+                "height": 94,
+                "seat_height": 67
+            },
+            {
+                "code": "Cod.",
+                "width": 110,
+                "depth": 110,
+                "height": 94,
+                "seat_height": 67
+            },
+            {
+                "code": "Cod.",
+                "width": 76,
+                "depth": 75,
+                "height": 70,
+                "seat_height": 42
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with backrest insert and seat in polyurethane foam. Seat in 18 mm thick poplar plywood and solid fir wood with elastic belts.",
+            "Base: painted or chromed metal.",
+            "Feet: walnut or gray stained ash.",
+            "Upholstery: not removable.",
+            "Base:",
+            "Feet:"
+        ],
+        "id": 11
+    },
+    {
+        "name": "Sesann",
+        "designer": "Gianfranco Frattini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/sesann/",
+        "description": "A reissue of a historic design by Gianfranco Frattini, Sesann is a collection of sofas and armchairs with soft, cosy forms that evoke feelings of warmth",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/02/GrandSesann-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 265,
+                "depth": 265,
+                "height": 107,
+                "seat_height": 67
+            },
+            {
+                "code": "Cod.",
+                "width": 240,
+                "depth": 240,
+                "height": 97,
+                "seat_height": 67
+            },
+            {
+                "code": "Cod.",
+                "width": 180,
+                "depth": 180,
+                "height": 97,
+                "seat_height": 67
+            },
+            {
+                "code": "Cod.",
+                "width": 110,
+                "depth": 110,
+                "height": 97,
+                "seat_height": 67
+            },
+            {
+                "code": "Cod.",
+                "width": 76,
+                "depth": 75,
+                "height": 70,
+                "seat_height": 42
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with backrest insert and seat in polyurethane foam. Seat in 18 mm thick poplar plywood and solid fir wood with elastic belts.",
+            "Base: painted or chromed metal.",
+            "Feet: walnut or gray stained ash.",
+            "Upholstery: not removable.",
+            "Base:",
+            "Feet:"
+        ],
+        "id": 12
+    },
+    {
+        "name": "Face to Face",
+        "designer": "Gordon Guillaumier",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/face-to-face/",
+        "description": "Face to Face is an original reinterpretation of the sofa as a space for one-to-one relations, with two opposing backs and soft, feather cushions inviting",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/FacetoFace.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 196,
+                "depth": 196,
+                "height": 97,
+                "seat_height": 73
+            }
+        ],
+        "materials": [
+            "Internal frame: seat in poplar plywood 18 mm thick with elastic belts.",
+            "Padding: seat in differentiated - density polyurethane foam. Backrest: cold foam with metal insert.",
+            "Base: metal feet powder coated painted or chromed.",
+            "Upholstery: non removable cover.",
+            "Base:",
+            "Cross-stitched seam:"
+        ],
+        "id": 13
+    },
+    {
+        "name": "Sella",
+        "designer": "Carlo De Carli",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/sella/",
+        "description": "Sella is inspired by the armchair of the same name designed in 1966 by the famous Italian architect Carlo De Carli. The highly elegant sofa is made using",
+        "image": "https://www.tacchini.it/wp-content/uploads/2019/06/Sella-Sofa.svg",
+        "dimensions": [
+            {
+                "code": "OSEL222W",
+                "width": 222,
+                "depth": 222,
+                "height": 97,
+                "seat_height": 83
+            },
+            {
+                "code": "OSEL102W",
+                "width": 102,
+                "depth": 102,
+                "height": 97,
+                "seat_height": 83
+            }
+        ],
+        "materials": [
+            "Structure: in Canaletto Walnut with leather belts.",
+            "Padding: feather cushions for the seat, feather cushions with a rubber insert for the back to give support.",
+            "Internal frame: iron frame with elastic straps.",
+            "Metal details: glossy black chrome.",
+            "Upholstery: not removable.",
+            "Base:"
+        ],
+        "id": 14
+    },
+    {
+        "name": "Five to Nine",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/five-to-nine/",
+        "description": "The Five to Nine daybed draws inspiration from 1900s scenic designs that portrayed a place for creative escape – a space as physical as it was mental –",
+        "image": "https://www.tacchini.it/wp-content/uploads/2020/11/Tacchini-Drawings-Five-to-Nine-B.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 200,
+                "seat_height": 75
+            },
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 200,
+                "seat_height": 75
+            },
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 200,
+                "seat_height": 75
+            },
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 200,
+                "seat_height": 75
+            },
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 200,
+                "seat_height": 79
+            },
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 200,
+                "seat_height": 84
+            },
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 200,
+                "seat_height": 79
+            },
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 200,
+                "seat_height": 79
+            }
+        ],
+        "materials": [
+            "Internal structure: 25 mm poplar plywood.",
+            "Padding: differentiated – density polyurethane foam.",
+            "Support in gray painted iron T03.",
+            "Structure: open pore stained ash in two colors.",
+            "Mattress: memory foam.",
+            "Upholstery: non removable cover.",
+            "Base:",
+            "Coffee table: in metal T03 or in concrete in various finishes.",
+            "Top:"
+        ],
+        "id": 15
+    },
+    {
+        "name": "Oliver",
+        "designer": "Gianfranco Frattini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/oliver/",
+        "description": "A re-edition of the legendary Model 872, designed by Gianfranco Frattini in 1957, the Oliver sofa embodies the inseparable fusion of form and material in",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Oliver.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 190,
+                "depth": 190,
+                "height": 83,
+                "seat_height": 5
+            }
+        ],
+        "materials": [
+            "Internal structure: poplar plywood 25 mm thick and 18 mm thick conifer plywood with belts.",
+            "Padding: multi-density polyurethane foam.",
+            "Base: painted or chromed metal. Feet in stained ash.",
+            "Upholstery: not removable.",
+            "Base:"
+        ],
+        "id": 16
+    },
+    {
+        "name": "Quilt",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/quilt/",
+        "description": "Modern meets classic in an alliance based on simplicity. Designed by PearsonLloyd, Quilt is the creative expression of a style that defies fashions and",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Quilt-54.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 160,
+                "depth": 160,
+                "height": 80,
+                "seat_height": 68
+            },
+            {
+                "code": "Cod.",
+                "width": 220,
+                "depth": 220,
+                "height": 80,
+                "seat_height": 68
+            },
+            {
+                "code": "Cod.",
+                "width": 260,
+                "depth": 260,
+                "height": 80,
+                "seat_height": 68
+            }
+        ],
+        "materials": [
+            "Internal frame: poplar plywood 18 mm thick.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: metal feet chrome or painted finish.",
+            "Cushions: feather.",
+            "Upholstery: removable cover.",
+            "Base:"
+        ],
+        "id": 17
+    },
+    {
+        "name": "Lima",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/lima/",
+        "description": "The decorative sensuality of generous shapes elegantly poised above slender feet forms an enticing contrast that composes spaces to be lived in and",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Lima-70-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 213,
+                "depth": 213,
+                "height": 91,
+                "seat_height": 78
+            },
+            {
+                "code": "Cod.",
+                "width": 183,
+                "depth": 183,
+                "height": 91,
+                "seat_height": 78
+            },
+            {
+                "code": "Cod.",
+                "width": 153,
+                "depth": 153,
+                "height": 91,
+                "seat_height": 78
+            },
+            {
+                "code": "Cod.",
+                "width": 89,
+                "depth": 89,
+                "height": 91,
+                "seat_height": 78
+            },
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 89,
+                "height": 70,
+                "seat_height": 39
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood 18 mm thick.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: tubular metal base Ø 16 mm, powder-coated painted.",
+            "Upholstery: non removable cover.",
+            "Base:"
+        ],
+        "id": 18
+    },
+    {
+        "name": "Montevideo",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/montevideo/",
+        "description": "Carefully designed shapes and sizes for all-round comfort: this is the guiding principle behind the Montevideo sofa. Armrests and backrest trace a soft",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/10/Montevideo-77.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 222,
+                "depth": 222,
+                "height": 222,
+                "seat_height": 90
+            },
+            {
+                "code": "Cod.",
+                "width": 192,
+                "depth": 192,
+                "height": 192,
+                "seat_height": 90
+            },
+            {
+                "code": "Cod.",
+                "width": 162,
+                "depth": 162,
+                "height": 162,
+                "seat_height": 90
+            },
+            {
+                "code": "Cod.",
+                "width": 96,
+                "depth": 96,
+                "height": 90,
+                "seat_height": 78
+            },
+            {
+                "code": "Cod.",
+                "width": 54,
+                "depth": 54,
+                "height": 62,
+                "seat_height": 80
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood 18 mm thick.",
+            "Padding: differentiated - density polyurethane foam. Seat/pillow in feather.",
+            "Base: tubular metal base Ø 16 mm, powder-coated painted.",
+            "Upholstery: fully removable cover.",
+            "Base:"
+        ],
+        "id": 19
+    },
+    {
+        "name": "Labanca",
+        "designer": "Lievore Altherr Molina",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/labanca/",
+        "description": "Multifunctional leading-edge design distinguishes this style, meant to enhance spaces with an international sense of decor that tends to the unique and",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Labanca-59.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 80,
+                "depth": 80,
+                "height": 62,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 140,
+                "depth": 140,
+                "height": 62,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 62,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 240,
+                "depth": 240,
+                "height": 62,
+                "seat_height": 74
+            },
+            {
+                "code": "Cod.",
+                "width": 80,
+                "depth": 80,
+                "height": 62,
+                "seat_height": 39
+            },
+            {
+                "code": "Cod.",
+                "width": 140,
+                "depth": 140,
+                "height": 62,
+                "seat_height": 39
+            },
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 62,
+                "seat_height": 39
+            },
+            {
+                "code": "Cod.",
+                "width": 240,
+                "depth": 240,
+                "height": 62,
+                "seat_height": 39
+            }
+        ],
+        "materials": [
+            "Internal frame: metal seat frame with elastic belts + seat bottom, back and armrest birch plywood 18 mm thickness.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: shiny aluminium plates.",
+            "Upholstery: non removable cover."
+        ],
+        "id": 20
+    },
+    {
+        "name": "Sliding",
+        "designer": "Pietro Arosio",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/sliding/",
+        "description": "A practical and extremely elegant sofa characterized by its base in cast aluminium which transforms itself into a comfortable double bed simply by",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Sliding-70.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 204,
+                "height": 100,
+                "seat_height": 144
+            }
+        ],
+        "materials": [
+            "Internal frame: metal inserts with elastic belts.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: die casting aluminium base powder-coated matt embossed aluminium and black. The element is provided with a patented metal system, which allows to convert the sofa into bed.",
+            "Upholstery: fully removable cover.",
+            "® Patented.",
+            "A) Base + feet:",
+            "B) Base + feet:"
+        ],
+        "id": 21
+    },
+    {
+        "name": "Quadro",
+        "designer": "Pietro Arosio",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/sofas/quadro/",
+        "description": "Quadro is a modular system which enables several configurations of sofas, armchairs and ottomans in a variety of combinations and dimensions addressing",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Quadro-48.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 100,
+                "depth": 98,
+                "height": 98,
+                "seat_height": 66
+            },
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 70,
+                "height": 98,
+                "seat_height": 66
+            },
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 70,
+                "height": 70,
+                "seat_height": 36
+            },
+            {
+                "code": "Cod.",
+                "width": 35,
+                "depth": 98,
+                "height": 35,
+                "seat_height": 36
+            }
+        ],
+        "materials": [
+            "Internal frame: metal frame with elastic belts covered by cold foam with metal inserts.",
+            "Base: plastic bottom with AVP steel feet.",
+            "Upholstery: fully removable cover."
+        ],
+        "id": 22
+    },
+    {
+        "name": "Additional System Armchair",
+        "designer": "Joe Colombo",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/additional-system-armchair/",
+        "description": "Modules with unusual shapes give life to original seating configurations where aggregation and variability take center stage. Additional System is a",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Additional-System-Armchair.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 90,
+                "depth": 90,
+                "height": 90,
+                "seat_height": 75
+            }
+        ],
+        "materials": [
+            "Wood frame covered with polyurethane foam in different densities.",
+            "Base and inserts made of aluminum.",
+            "Covers made of leather or fabric.",
+            "Removable cover."
+        ],
+        "id": 23
+    },
+    {
+        "name": "Le Mura Armchair",
+        "designer": "Mario Bellini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/le-mura-armchair/",
+        "description": "The project Le Mura by Mario Bellini represents the manifesto of a radical design that went through all the Italian 70s: design was as an answer to",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/06/Tacchini-LeMura-Armchair.svg",
+        "dimensions": [
+            {
+                "code": "ArmchairCod.",
+                "width": 120,
+                "depth": 128,
+                "height": 96,
+                "seat_height": 5
+            }
+        ],
+        "materials": [
+            "Upholstery: removable.",
+            "Clasp and zipper:"
+        ],
+        "id": 24
+    },
+    {
+        "name": "Orsola Armchair",
+        "designer": "Gastone Rinaldi",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/orsola-armchair/",
+        "description": "Roundness and comfort. Tradition and innovation. These are the keywords of Orsola, designed in 1970 by Gastone Rinaldi. The new edition stays true to its",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/01/Tacchini-2021-Orsola-Armchair.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 90,
+                "depth": 90,
+                "height": 99,
+                "seat_height": 70
+            },
+            {
+                "code": "Cod.",
+                "width": 90,
+                "depth": 90,
+                "height": 80,
+                "seat_height": 40
+            }
+        ],
+        "materials": [
+            "Internal structure: 18 mm thick poplar plywood, with 45 × 45 mm solid fir crosspieces with elastic straps.",
+            "Padding: polyurethane foam in different densities.",
+            "Structure: T23 polished chrome iron tube.",
+            "Cover: not removable.",
+            "Structure:"
+        ],
+        "id": 25
+    },
+    {
+        "name": "Elephant",
+        "designer": "Karen Chekerdjian",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/elephant/",
+        "description": "Two tusks extend harmoniously outwards. Four legs anchor the chair to the ground, conveying a feeling of strength and power. A comfortable and majestic",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/01/Tacchini-2021-Elephant-Armchair.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 72,
+                "depth": 72,
+                "height": 90,
+                "seat_height": 2
+            },
+            {
+                "code": "Cod.",
+                "width": 62,
+                "depth": 62,
+                "height": 50,
+                "seat_height": 36
+            }
+        ],
+        "materials": [
+            "Structure: open pore T134 walnut stained ash or open pore T122 anthracite stained ash.",
+            "Padding: goose down.",
+            "Upholstery: load-bearing leather structure and cushion covered in leather. Not removable.",
+            "Structure:",
+            "Available in the following leather finishes:",
+            "Cushion available in the following Guarana colors:"
+        ],
+        "id": 26
+    },
+    {
+        "name": "Sella Armchair",
+        "designer": "Carlo De Carli",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/sella-armchair-classic/",
+        "description": "Sella is inspired by the armchair of the same name designed in 1966 by the famous Italian architect Carlo De Carli. The highly elegant sofa is made using",
+        "image": "https://www.tacchini.it/wp-content/uploads/2019/06/Sella-Armchair.svg",
+        "dimensions": [
+            {
+                "code": "OSEL102W",
+                "width": 102,
+                "depth": 102,
+                "height": 97,
+                "seat_height": 83
+            }
+        ],
+        "materials": [
+            "Structure: in Canaletto Walnut with leather belts.",
+            "Padding: feather cushions for the seat, feather cushions with a rubber insert for the back to give support.",
+            "Internal frame: iron frame with elastic straps.",
+            "Metal details: glossy black chrome.",
+            "Upholstery: not removable.",
+            "Base:"
+        ],
+        "id": 27
+    },
+    {
+        "name": "Roma Armchair",
+        "designer": "Jonas Wagell",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/roma-armchair/",
+        "description": "Almost suspended above the floor, with the slenderest of legs upholding a large, cosy seat. Jonas Wagell imagines a family of sofas, inspired by the soft,",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Roma-2.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 106,
+                "depth": 106,
+                "height": 3,
+                "seat_height": 88
+            }
+        ],
+        "materials": [
+            "Internal structure: 18 mm thick birch plywood and 25 mm thick poplar plywood with elastic belts.",
+            "Padding: differentiated-density polyurethane foam. Backrest cushions: feather.",
+            "Upholstery: not removable.",
+            "Base: tubular metal feet Ø 16 mm powder coated painted or chromed.",
+            "Base:"
+        ],
+        "id": 28
+    },
+    {
+        "name": "Crystal Armchair",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/crystal-armchair/",
+        "description": "Oblique corners reminding of ancient obelisk shapes, creating an architectural play of light and shadow. Full volumes seem to float above the floor, on a",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Crystal-03.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 96,
+                "depth": 96,
+                "height": 96,
+                "seat_height": 80
+            }
+        ],
+        "materials": [
+            "Internal frame: poplar plywood 18 mm with elastic belts.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: on plastic glides or also available with black embossed powder-coated metal swivel plate 8 mm thick.",
+            "Upholstery: non removable cover."
+        ],
+        "id": 29
+    },
+    {
+        "name": "Lagoa",
+        "designer": "Zanini De Zanine",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/lagoa/",
+        "description": "Zanini de Zanine, the famous Brazilian designer, son of architect and designer José Zanine Caldas, creates an absolutely original model, conceived",
+        "image": "https://www.tacchini.it/wp-content/uploads/2019/06/Lagoa.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 90,
+                "depth": 90,
+                "height": 74,
+                "seat_height": 74
+            }
+        ],
+        "materials": [
+            "Internal structure: 18 mm poplar plywood.",
+            "Seat with elastic belts.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Upholstery: not removable."
+        ],
+        "id": 30
+    },
+    {
+        "name": "Julep Armchair",
+        "designer": "Jonas Wagell",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/julep-armchair/",
+        "description": "Soft, enveloping shapes characterize this family of upholstered pieces. Julep is influenced by the 1950s Avant-Garde movement, drawing upon its simplicity",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/Julep-3.svg",
+        "dimensions": [
+            {
+                "code": "ArmchairCod.",
+                "width": 102,
+                "depth": 102,
+                "height": 5,
+                "seat_height": 87
+            },
+            {
+                "code": "OttomanCod.",
+                "width": 120,
+                "depth": 120,
+                "height": 92,
+                "seat_height": 42
+            },
+            {
+                "code": "OttomanCod.",
+                "width": 68,
+                "depth": 68,
+                "height": 66,
+                "seat_height": 42
+            },
+            {
+                "code": "SofaCod.",
+                "width": 240,
+                "depth": 240,
+                "height": 126,
+                "seat_height": 75
+            },
+            {
+                "code": "Chaise-longueCod.",
+                "width": 208,
+                "depth": 208,
+                "height": 121,
+                "seat_height": 76
+            },
+            {
+                "code": "IslandCod.",
+                "width": 174,
+                "depth": 174,
+                "height": 137,
+                "seat_height": 75
+            }
+        ],
+        "materials": [
+            "Internal frame: poplar and birch plywood 18 mm thick, with elastic belts.",
+            "Padding: cold foam.",
+            "Base: poplar plywood 3 mm thick covered with the same fabric of the product.",
+            "Upholstery: non removable cover.",
+            "Notes: the products cannot be realized in Leather, Super Leather, Aniline Leather and Vinyl.",
+            "® Registered Design"
+        ],
+        "id": 31
+    },
+    {
+        "name": "Sesann Armchair",
+        "designer": "Gianfranco Frattini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/sesann-armchair/",
+        "description": "An icon of Italian design in the 1970s, the Sesann collection by Gianfranco Frattini was part of a new vision of contemporary living in which ergonomics",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Sesann-69-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 110,
+                "depth": 110,
+                "height": 97,
+                "seat_height": 67
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with backrest insert and seat in polyurethane foam. Seat in 18 mm thick poplar plywood and solid fir wood with elastic belts.",
+            "Base: tubular metal frame Ø 20 mm powder-coated painted or chromed.",
+            "Feet: open pore stained solid ash wood.",
+            "Upholstery: not removable.",
+            "Base:",
+            "Feet:"
+        ],
+        "id": 32
+    },
+    {
+        "name": "Baobab",
+        "designer": "Lievore Altherr Molina",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/baobab/",
+        "description": "Baobab is characterised by the contrast of the full rounded form of the seat with the fine and elegant profile of the back. The result, quite apart from",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Baobab-82.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 80,
+                "depth": 80,
+                "height": 77,
+                "seat_height": 69
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: on castors.",
+            "Upholstery: non removable cover."
+        ],
+        "id": 33
+    },
+    {
+        "name": "Pastilles",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/pastilles/",
+        "description": "The new project with Studiopepe is a collaboration with designers Arianna Lelli Mami and Chiara Di Pinto, the creative minds behind the consultancy.",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/12/Pastilles-Armchair.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 57,
+                "depth": 57,
+                "height": 55,
+                "seat_height": 73
+            }
+        ],
+        "materials": [
+            "Internal frame: 18 mm thick poplar plywood.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Base: 0.9 mm thick laminate in different colors.",
+            "Upholstery: not removable.",
+            "Base:"
+        ],
+        "id": 34
+    },
+    {
+        "name": "Pisa",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/pisa/",
+        "description": "From the visual form of the verbal language – borrowed from the simple configuration of the letter “u” – the Swedish designers translate the game of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Pisa-03.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 67,
+                "depth": 67,
+                "height": 76,
+                "seat_height": 82
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with metal insert, with 18 mm thick birch plywood seat. Seat and back in polyurethane foam.",
+            "Base: aluminium feet or black embossed powder-coated metal swivel plate 8 mm thick."
+        ],
+        "id": 35
+    },
+    {
+        "name": "Polar Armchair",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/polar-armchair/",
+        "description": "Polar is inspired by the shear forms of the ice caps in the arctic seas, thus giving life to an extremely versatile seating system. The seats and",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Polar-44.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 107,
+                "depth": 107,
+                "height": 81,
+                "seat_height": 5
+            },
+            {
+                "code": "Cod.",
+                "width": 107,
+                "depth": 107,
+                "height": 81,
+                "seat_height": 5
+            }
+        ],
+        "materials": [
+            "Internal frameSeat frame: poplar plywood 18 mm thick with elastic belts, with fiberboard timber lateral frame. Back frame: cold foam with metal inserts.",
+            "PaddingSeat: cold foam, with lateral covering with polyurethane foam. Back: cold foam.",
+            "Base: aluminium feet."
+        ],
+        "id": 36
+    },
+    {
+        "name": "Lina",
+        "designer": "Gianfranco Frattini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/lina/",
+        "description": "Lina is a re-edition of one of the earliest projects designed by Gianfranco Frattini, one of the great masters of Italian design. Nominated in 1955 for",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/Lina.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 78,
+                "depth": 78,
+                "height": 78,
+                "seat_height": 76
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood 18 mm thick with elastic belts for the seat.",
+            "Padding: differentiated density polyurethane foam.",
+            "Base: open pore stained solid ash wood.",
+            "Upholstery: non removable cover.",
+            "Base:"
+        ],
+        "id": 37
+    },
+    {
+        "name": "Agnese",
+        "designer": "Gianfranco Frattini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/agnese/",
+        "description": "Model 849, one of his most famous armchairs, was designed by Gianfranco Frattini in 1956. Awarded honorable mention at the 3rd Compasso d’Oro, Agnese is",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Agnese-80.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 84,
+                "depth": 84,
+                "height": 76,
+                "seat_height": 73
+            },
+            {
+                "code": "Cod.",
+                "width": 57,
+                "depth": 57,
+                "height": 51,
+                "seat_height": 42
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood 12 mm thick.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: open pore stained solid ash wood.",
+            "Upholstery: non removable cover.",
+            "Base:"
+        ],
+        "id": 38
+    },
+    {
+        "name": "Chill-Out Armchair",
+        "designer": "Gordon Guillaumier",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/chill-out-armchair/",
+        "description": "Chill-Out is a system of sofas and armchairs that can stand alone or create a vast range of different linear or corner compositions. It features a light,",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Chill-Out-Dimensions-14.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 44
+            },
+            {
+                "code": "High",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "High",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 71
+            }
+        ],
+        "materials": [
+            "Internal frame:  poplar plywood 18 mm thick with metal frame with elastic belts.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Base: tubular metal base Ø 16 mm, available chromed or powder-coated painted.",
+            "Upholstery: non removable cover.",
+            "Base:",
+            "Top:"
+        ],
+        "id": 39
+    },
+    {
+        "name": "Lima Armchair",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/lima-armchair/",
+        "description": "A system consisting of sofas and armchairs in different sizes, with a markedly sleek shape to receive the body nicely. Extra comfort is given by the large",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Lima-67-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 89,
+                "depth": 89,
+                "height": 91,
+                "seat_height": 78
+            },
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 89,
+                "height": 70,
+                "seat_height": 39
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood 18 mm thick.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: tubular metal base Ø 16 mm, powder-coated painted.",
+            "Upholstery: non removable cover.",
+            "Base:"
+        ],
+        "id": 40
+    },
+    {
+        "name": "Montevideo Armchair",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/montevideo-armchair/",
+        "description": "Carefully designed shapes and sizes for all-round comfort: this is the guiding principle behind the Montevideo sofa. Armrests and backrest trace a soft",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Montevideo-74-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 96,
+                "depth": 96,
+                "height": 90,
+                "seat_height": 78
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood 18 mm thick.",
+            "Padding: differentiated - density polyurethane foam. Seat/pillow in feather.",
+            "Base: tubular metal base Ø 16 mm, powder-coated painted.",
+            "Upholstery: fully removable cover.",
+            "Base:"
+        ],
+        "id": 41
+    },
+    {
+        "name": "Reversível",
+        "designer": "Martin Eisler",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/reversivel/",
+        "description": "Fruit of the creative genius of the architect and designer Martin Eisler, Reversível is an historic piece of Carioca design, and Tacchini fell in love",
+        "image": "https://www.tacchini.it/wp-content/uploads/2019/05/Reversivel.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 104,
+                "depth": 104,
+                "height": 73,
+                "seat_height": 68
+            }
+        ],
+        "materials": [
+            "Backrest: 25 mm poplar plywood.",
+            "Seat: iron insert with elastic belts.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Metal base Ø 15 mm painted T07.",
+            "T25 chromed iron feet.",
+            "Upholstery: not removable."
+        ],
+        "id": 42
+    },
+    {
+        "name": "Kelly E",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/kelly-e/",
+        "description": "Contours and color. A minimalist celebration of clear, rounded contrasts. Taking inspiration from the artistic vision of Ellsworth Kelly, this is a",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/KellyE-84.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 70,
+                "height": 80,
+                "seat_height": 81
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with metal inserts.",
+            "Base: tubular metal base Ø 16 mm. Powder coated painted or chromed.",
+            "Base:"
+        ],
+        "id": 43
+    },
+    {
+        "name": "Isola",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/isola/",
+        "description": "In waiting spaces, people naturally tend to assume a relaxed posture, particularly while using their computer, laptop or smartphone for work or to pass",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Isola-96.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 118,
+                "depth": 118,
+                "height": 86,
+                "seat_height": 5
+            },
+            {
+                "code": "Cod.",
+                "width": 118,
+                "depth": 118,
+                "height": 86,
+                "seat_height": 5
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with metal inserts.",
+            "Base: tubular metal base Ø 18 mm. Powder-coated painted or chromed.",
+            "Upholstery: non removable cover.",
+            "Side table: little side table 385,7 × 347,3 mm, thickness 20 mm in the middle, 25° inclination.",
+            "Base:",
+            "Side table:"
+        ],
+        "id": 44
+    },
+    {
+        "name": "Glide",
+        "designer": "Monica Förster",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/glide/",
+        "description": "The inspiration for Glide came from observing nature, the constant, flowing transformation from one state to another, like snow melting in springtime. The",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Glide-92-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 106,
+                "depth": 106,
+                "height": 65,
+                "seat_height": 61
+            }
+        ],
+        "materials": [
+            "Internal frame: rigid polyurethane, flexible polyurethane.",
+            "Base: tubular metal base Ø 16 mm. Powder-coated painted.",
+            "Upholstery: non removable cover.",
+            "Base:"
+        ],
+        "id": 45
+    },
+    {
+        "name": "Mayfair",
+        "designer": "Christophe Pillet",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/mayfair/",
+        "description": "Compact and curvaceous, the Mayfair collection has a unique and distinctive linear aesthetic, like a single curved leaf on the outside, and pleasingly",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Mayfair-93.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 64,
+                "depth": 64,
+                "height": 69,
+                "seat_height": 82
+            },
+            {
+                "code": "Cod.",
+                "width": 131,
+                "depth": 131,
+                "height": 74,
+                "seat_height": 82
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with metal inserts.",
+            "Padding: polyurethane foam seat cushion.",
+            "Upholstery: non removable cover."
+        ],
+        "id": 46
+    },
+    {
+        "name": "Parentesi",
+        "designer": "Pietro Arosio",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/parentesi/",
+        "description": "Its name means parenthesis: a simple, effective description of this collection, with its clean, essential, curved lines. The armchair revisits a classic,",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Parentesi-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 80,
+                "depth": 80,
+                "height": 80,
+                "seat_height": 65
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood 18mm thick with elastic belts.",
+            "External back frame: shell in birch plywood 9 mm, which can be finishes aluminum, wengé or fully upholstered. The sofa is available only with upholstered back.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: aluminium feet.",
+            "Upholstery: non removable cover.",
+            "Base:"
+        ],
+        "id": 47
+    },
+    {
+        "name": "Jacket",
+        "designer": "Patrick Norguet",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/jacket/",
+        "description": "Drawing evident inspiration from the fashion world, Jacket armchair now appears in a renewed version, with revamped sartorial details and new colours for",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Jacket-97.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 86,
+                "depth": 89,
+                "height": 80,
+                "seat_height": 79
+            }
+        ],
+        "materials": [
+            "Internal frame: seat in poplar plywood 18 mm with elastic belts.",
+            "Padding: polyurethane foam for the seat cushion, feather for the backrest cushion.",
+            "Base: tubular metal base 30 mm thick powder-coated painted.",
+            "Upholstery: fully removable cover.",
+            "Base:"
+        ],
+        "id": 48
+    },
+    {
+        "name": "Moon",
+        "designer": "Pietro Arosio",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/moon/",
+        "description": "Moon is an armchair with a uniquely curvaceous and dynamic shape. The special production process creates a swivelling polyurethane shell that forms a",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Moon.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 183,
+                "depth": 83,
+                "height": 5,
+                "seat_height": 73
+            }
+        ],
+        "materials": [
+            "Internal frame: rigid polyurethane and resin cover.",
+            "Base: metal plate on the bottom of the armchair with a metal swivel piston, covered by rigid lacquered polyurethane.",
+            "Upholstery: non removable cover.",
+            "Base:",
+            "Suggested upholstery: Special Moon leather selection"
+        ],
+        "id": 49
+    },
+    {
+        "name": "Costela",
+        "designer": "Martin Eisler",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/costela/",
+        "description": "Tacchini is delighted to reissue Costela by Martin Eisler, an icon of Brazilian 1950s design. An elegant yet informal armchair. With its sensual",
+        "image": "https://www.tacchini.it/wp-content/uploads/2019/06/Costela-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 74,
+                "depth": 74,
+                "height": 80,
+                "seat_height": 83
+            },
+            {
+                "code": "Cod.",
+                "width": 74,
+                "depth": 74,
+                "height": 55,
+                "seat_height": 40
+            }
+        ],
+        "materials": [
+            "Structure: open pore ash slats in various colors. Metal base Ø 20 mm painted T07.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Upholstery: non removable cover.",
+            "Structure:"
+        ],
+        "id": 50
+    },
+    {
+        "name": "Shelter",
+        "designer": "Noé Duchaufour-Lawrance",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/shelter/",
+        "description": "Inspired by the purity of nature, it is a sculpture, a place unto itself, where self-reflection comes naturally. Shelter armchair, designed by Noé",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Shelter-06.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 69,
+                "depth": 69,
+                "height": 5,
+                "seat_height": 85
+            },
+            {
+                "code": "Cod.",
+                "width": 60,
+                "depth": 60,
+                "height": 51,
+                "seat_height": 41
+            }
+        ],
+        "materials": [
+            "Armchair",
+            "Internal frames: cold foam with metal inserts.",
+            "Headrest internal material: polyurethane foam including a metal plate 365 × 80 mm thickness 2 mm painted col. black.",
+            "Base: 4 star swivel metal base powder-coated painted or chromed.",
+            "Upholstery: non removable cover.",
+            "Ottoman",
+            "Internal frames: cold foam with metal inserts.",
+            "Base: 4 star swivel metal base powder-coated painted or chromed.",
+            "Upholstery: non removable cover.",
+            "Base:"
+        ],
+        "id": 51
+    },
+    {
+        "name": "Sancarlo",
+        "designer": "Achille Castiglioni",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/sancarlo/",
+        "description": "The Sancarlo armchair is a treatise on statics, ergonomics, function and geometry. Achille Castiglioni has taken up again the idea of the Sanluca,",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/SanCarlo-04.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 62,
+                "depth": 62,
+                "height": 5,
+                "seat_height": 92
+            },
+            {
+                "code": "Cod.",
+                "width": 124,
+                "depth": 124,
+                "height": 83,
+                "seat_height": 5
+            }
+        ],
+        "materials": [
+            "Internal frame",
+            "Seat: metal frame with elastic belts; pillow: metal frame.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: tubular base Ø 18 mm powder-coated painted.",
+            "Upholstery: fully removable cover. Possibility of combining different fabrics or fabrics and leathers.",
+            "Base:"
+        ],
+        "id": 52
+    },
+    {
+        "name": "Giulia",
+        "designer": "Gianfranco Frattini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/giulia/",
+        "description": "A re-edition of the famous Model 877 by Gianfranco Frattini, from 1957, named for the wife of Gio Ponti, the designer’s great teacher and mentor. Giulia",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Giulia-90.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 86,
+                "depth": 86,
+                "height": 95,
+                "seat_height": 104
+            },
+            {
+                "code": "Cod.",
+                "width": 57,
+                "depth": 57,
+                "height": 51,
+                "seat_height": 42
+            }
+        ],
+        "materials": [
+            "Internal structure: 30 mm thick fir plywood.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Base: open pore stained solid ash wood.",
+            "Base:"
+        ],
+        "id": 53
+    },
+    {
+        "name": "SouthBeach",
+        "designer": "Christophe Pillet",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/armchairs/southbeach/",
+        "description": "As fascinating as a throne and as protective as a cradle, a seat that combines the concepts of strength and softness in a single piece of furniture. The",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/SouthBeach-08.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 110,
+                "depth": 110,
+                "height": 68,
+                "seat_height": 139
+            }
+        ],
+        "materials": [
+            "Frame: solid beech wood 30 mm thickness. It can be lacquered shiny, matt black or white or natural beech.",
+            "Seat and backrest: birch plywood 24 mm thickness with elastic belts.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Upholstery: non removable cover.",
+            "Frame:"
+        ],
+        "id": 54
+    },
+    {
+        "name": "Additional System Ottoman",
+        "designer": "Joe Colombo",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/ottomans/additional-system-ottoman/",
+        "description": "Modules with unusual shapes give life to original seating configurations where aggregation and variability take center stage. Additional System is a",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Additional-System-Ottoman.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 90,
+                "depth": 90,
+                "height": 60,
+                "seat_height": 40
+            }
+        ],
+        "materials": [
+            "Wood frame covered with polyurethane foam in different densities.",
+            "Base and inserts made of aluminum.",
+            "Covers made of leather or fabric.",
+            "Removable cover."
+        ],
+        "id": 55
+    },
+    {
+        "name": "Le Mura Ottoman",
+        "designer": "Mario Bellini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/ottomans/le-mura-ottoman/",
+        "description": "The project Le Mura by Mario Bellini represents the manifesto of a radical design that went through all the Italian 70s: design was as an answer to",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/06/Tacchini-LeMura-Ottoman.svg",
+        "dimensions": [
+            {
+                "code": "OttomanCod.",
+                "width": 90,
+                "depth": 96,
+                "height": 96,
+                "seat_height": 43
+            }
+        ],
+        "materials": [
+            "Upholstery: removable."
+        ],
+        "id": 56
+    },
+    {
+        "name": "Sesann Ottoman",
+        "designer": "Gianfranco Frattini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/ottomans/sesann-ottoman/",
+        "description": "Together with the armchair and sofa already featured in a Tacchini re-edition in 2015, the Sesann ottoman continues the story of a vision of contemporary",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Sesann-Ottoman.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 76,
+                "depth": 75,
+                "height": 70,
+                "seat_height": 42
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with seat in polyurethane foam. Seat in 18 mm thick poplar plywood and solid fir wood with elastic belts.",
+            "Base: painted or chromed metal.",
+            "Feet: walnut or gray stained ash.",
+            "Upholstery: not removable.",
+            "Base:",
+            "Feet:"
+        ],
+        "id": 57
+    },
+    {
+        "name": "Torus",
+        "designer": "Umberto Bellardi Ricci",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/ottomans/torus/",
+        "description": "In the factory that produces his prototypes, Umberto Bellardi Ricci sees for the first time the elbows of the ventilation ducts, joined in groups of four",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Torus-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 80,
+                "depth": 83,
+                "height": 42
+            },
+            {
+                "code": "Cod.",
+                "width": 60,
+                "depth": 63,
+                "height": 30
+            }
+        ],
+        "materials": [],
+        "id": 58
+    },
+    {
+        "name": "Matera",
+        "designer": "Gordon Guillaumier",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/ottomans/matera/",
+        "description": "Explore new creative scenarios in an imaginary tour of the extraordinary urban ecosystem – the Sassi di Matera. Here, the stratification of eras displays",
+        "image": "https://www.tacchini.it/wp-content/uploads/2020/12/Matera-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 95,
+                "depth": 95,
+                "height": 80,
+                "seat_height": 40
+            },
+            {
+                "code": "Cod.",
+                "width": 109,
+                "depth": 109,
+                "height": 96,
+                "seat_height": 40
+            },
+            {
+                "code": "Cod.",
+                "width": 130,
+                "depth": 130,
+                "height": 104,
+                "seat_height": 40
+            },
+            {
+                "code": "Cod.",
+                "width": 1952,
+                "depth": 195,
+                "height": 104,
+                "seat_height": 40
+            },
+            {
+                "code": "Cod.",
+                "width": 2703,
+                "depth": 270,
+                "height": 105,
+                "seat_height": 40
+            }
+        ],
+        "materials": [
+            "Internal structure: 18 mm thick poplar plywood with elastic belts.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Plastic bottom.",
+            "Upholstery: not removable.",
+            "Table top:"
+        ],
+        "id": 59
+    },
+    {
+        "name": "Float",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/ottomans/float/",
+        "description": "Echoing the rounded, irregular shapes and ample size of icebergs, the Float ottomans are available in various sizes to meet the different needs and uses",
+        "image": "https://www.tacchini.it/wp-content/uploads/2020/12/Float-01.svg",
+        "dimensions": [
+            {
+                "code": "OttomanCod.",
+                "width": 49,
+                "depth": 49,
+                "height": 38,
+                "seat_height": 43
+            },
+            {
+                "code": "OttomanCod.",
+                "width": 92,
+                "depth": 92,
+                "height": 74,
+                "seat_height": 5
+            },
+            {
+                "code": "Low",
+                "width": 1,
+                "depth": 92,
+                "height": 92,
+                "seat_height": 74
+            }
+        ],
+        "materials": [
+            "Internal frame: 18 mm thick poplar plywood with elastic belts.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Base: aluminium feet.",
+            "Upholstery: not removable.",
+            "Top finishes:"
+        ],
+        "id": 60
+    },
+    {
+        "name": "Spin",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/ottomans/spin/",
+        "description": "Spin is a family of ottomans which resumes a technique such as “random” stitching, already applied in the Doodle chairs by designers Claesson Koivisto",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Spin-13.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 60,
+                "depth": 60,
+                "height": 39,
+                "seat_height": 39
+            },
+            {
+                "code": "Cod.",
+                "width": 90,
+                "depth": 90,
+                "height": 39,
+                "seat_height": 39
+            },
+            {
+                "code": "Cod.",
+                "width": 117,
+                "depth": 119,
+                "height": 39,
+                "seat_height": 39
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood 15 mm + polystyrene 220 mm.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: polypropylene glides col. black Ø 30 mm, H 13 mm.",
+            "Stitches: available col. 01 White, 02 Beige, 03 Red, 04 Blue, 05 Black."
+        ],
+        "id": 61
+    },
+    {
+        "name": "Pastilles Ottoman",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/ottomans/pastilles-ottoman/",
+        "description": "The new project with Studiopepe is a collaboration with designers Arianna Lelli Mami and Chiara Di Pinto, the creative minds behind the consultancy.",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/12/Pastilles-Pouf.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 57,
+                "depth": 57,
+                "height": 55,
+                "seat_height": 47
+            }
+        ],
+        "materials": [
+            "Internal frame: 18 mm thick poplar plywood.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Base: 0.9 mm thick laminate in different colors.",
+            "Upholstery: not removable.",
+            "Base:"
+        ],
+        "id": 62
+    },
+    {
+        "name": "Paola",
+        "designer": "Vico Magistretti",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/paola/",
+        "description": "Solidity and lightness go together. Rigidity and sweetness meet. Paola is a chair that speaks of tradition and modernity, it is a historic project by Vico",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Paola.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 50,
+                "height": 51,
+                "seat_height": 75
+            }
+        ],
+        "materials": [
+            "Walnut or gray stained ash frame.",
+            "Wooden seat padded and covered in fabric or leather.",
+            "Not removable cover.",
+            "Ash structure:"
+        ],
+        "id": 63
+    },
+    {
+        "name": "Dialogo without Armrests",
+        "designer": "Tobia Scarpa",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/dialogo-2/",
+        "description": "A rectangular frame with rounded edges, masterful joints, and strictly visible dowels and screws reinforces the typical double trestle structure by Tobia",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Dialogo-Chair.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 47,
+                "depth": 54,
+                "height": 46,
+                "seat_height": 81
+            }
+        ],
+        "materials": [
+            "Ash structure:",
+            "Walnut structure:"
+        ],
+        "id": 64
+    },
+    {
+        "name": "Dialogo with Armrests",
+        "designer": "Tobia Scarpa",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/dialogo/",
+        "description": "A rectangular frame with rounded edges, masterful joints, and strictly visible dowels and screws reinforces the typical double trestle structure by Tobia",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Dialogo-Armchair.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 47,
+                "depth": 54,
+                "height": 46,
+                "seat_height": 81
+            },
+            {
+                "code": "Cod.",
+                "width": 47,
+                "depth": 54,
+                "height": 46,
+                "seat_height": 81
+            }
+        ],
+        "materials": [
+            "Ash structure:",
+            "Walnut structure:"
+        ],
+        "id": 65
+    },
+    {
+        "name": "Sempronia",
+        "designer": "Tobia Scarpa",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/sempronia/",
+        "description": "Circular elements fit together in a double circle that evokes the signature of the great master who designed it. Twin legs, created by the intersection of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Sempronia.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 53,
+                "depth": 50,
+                "height": 53,
+                "seat_height": 80
+            }
+        ],
+        "materials": [
+            "Rings:"
+        ],
+        "id": 66
+    },
+    {
+        "name": "Pigreco",
+        "designer": "Tobia Scarpa",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/pigreco/",
+        "description": "The essential nature of a sign. The proportion of solids and voids. The harmony between straight and curved lines. Every feature of this chair responds to",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/01/Tacchini-2021-Pigreco.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 55,
+                "depth": 55,
+                "height": 1,
+                "seat_height": 40
+            }
+        ],
+        "materials": [
+            "Internal structure: 18 mm poplar plywood, with elastic straps.",
+            "Padding: polyurethane foam in different densities.",
+            "Structure: natural stained open pore American walnut, open pore T134 walnut stained ash or open pore T122 anthracite stained ash.",
+            "Cover: not removable.",
+            "Walnut version",
+            "Ashwood version"
+        ],
+        "id": 67
+    },
+    {
+        "name": "Memory Lane",
+        "designer": "Christophe Pillet",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/memory-lane/",
+        "description": "Christophe Pillet designs a chair that is timeless, universal and radically simplified in its design. Memory Lane’s elegance lies in its outright",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/MemoryLane.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 59,
+                "depth": 59,
+                "height": 65,
+                "seat_height": 5
+            }
+        ],
+        "materials": [
+            "Padding: differentiated-density polyurethane foam.",
+            "Base: tubular metal frame Ø 20 mm powder coated painted, with beige elastic belts which substain seat and back.",
+            "Upholstery: removable cover.",
+            "Only for outdoor version: dryfeel padding.",
+            "Base:"
+        ],
+        "id": 68
+    },
+    {
+        "name": "Kelly C Basic",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/kelly-c-basic/",
+        "description": "The designer drew inspiration from the work of minimalist artist Ellsworth Kelly, creating a chair with slender metal legs and a padded shell with a",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/12/KellyC-Basic.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 52,
+                "depth": 56,
+                "height": 53,
+                "seat_height": 82
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with metal inserts.",
+            "Base: tubular metal base Ø 16 mm. Power-coated painted or chromed.",
+            "Stackable up to 4 pieces.",
+            "Base:"
+        ],
+        "id": 69
+    },
+    {
+        "name": "Kelly C",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/kelly-c/",
+        "description": "The designer drew inspiration from the work of minimalist artist Ellsworth Kelly, creating a chair with slender metal legs and a padded shell with a",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/KellyC-88.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 52,
+                "depth": 52,
+                "height": 51,
+                "seat_height": 79
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with metal inserts.",
+            "Base: tubular metal base Ø 16 mm. Power-coated painted or chromed.",
+            "Base:"
+        ],
+        "id": 70
+    },
+    {
+        "name": "Babela",
+        "designer": "Achille + Pier Giacomo Castiglioni",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/babela/",
+        "description": "Designed in 1958 by Achille and Pier Giacomo Castiglioni for the Milan Chamber of Commerce, Babela is an excellent example of how practicality and",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Babela-23-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 56,
+                "depth": 56,
+                "height": 59,
+                "seat_height": 80
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood 15 mm.",
+            "Padding: differentiated - density  polyurethane foam.",
+            "Base: open-pore lacquered ash wood.",
+            "Upholstery: fully removable cover.",
+            "Stackable chair.",
+            "Base:"
+        ],
+        "id": 71
+    },
+    {
+        "name": "Montevideo Chair",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/montevideo-chair/",
+        "description": "With its slender legs and soft shapes, the Montevideo chair certainly does not trade in comfort for elegance. The soft foam cushion envelops the body,",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Montevideo-78.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 54,
+                "depth": 54,
+                "height": 62,
+                "seat_height": 80
+            }
+        ],
+        "materials": [
+            "Internal frame: birch plywood 18 mm thick.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: tubular metal base Ø 16 mm, powder-coated painted.",
+            "Upholstery: fully removable cover.",
+            "Base:"
+        ],
+        "id": 72
+    },
+    {
+        "name": "Eddy",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/eddy/",
+        "description": "From the British PearsonLloyd design studio, Eddy is a boldly charming chair. This sleek, compact armchair features distinctive lines and ample",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Eddy-32-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 61,
+                "depth": 61,
+                "height": 61,
+                "seat_height": 62
+            }
+        ],
+        "materials": [
+            "Internal frame: cold foam with metal inserts and elastic belts.",
+            "Base: wooden plate with plastic glides or swivel plate thickness 8 mm embossed black.",
+            "Upholstery: non removable cover.",
+            "Zip:"
+        ],
+        "id": 73
+    },
+    {
+        "name": "Trono",
+        "designer": "Umberto Bellardi Ricci",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/trono/",
+        "description": "Exploring the dialogue between different materials, Umberto Bellardi Ricci gives life to a collection that stimulates the interaction between architecture",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Trono-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 25,
+                "depth": 45,
+                "height": 43
+            },
+            {
+                "code": "Cod.",
+                "width": 25,
+                "depth": 40,
+                "height": 40,
+                "seat_height": 43
+            },
+            {
+                "code": "Cod.",
+                "width": 40,
+                "depth": 45,
+                "height": 49
+            },
+            {
+                "code": "Cod.",
+                "width": 40,
+                "depth": 45,
+                "height": 57
+            },
+            {
+                "code": "Cod.",
+                "width": 40,
+                "depth": 40,
+                "height": 40,
+                "seat_height": 49
+            },
+            {
+                "code": "Cod.",
+                "width": 40,
+                "depth": 40,
+                "height": 40,
+                "seat_height": 57
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 4050,
+                "height": 50,
+                "seat_height": 41
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 4060,
+                "height": 60,
+                "seat_height": 41
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 5050,
+                "height": 50,
+                "seat_height": 51
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 5060,
+                "height": 60,
+                "seat_height": 51
+            }
+        ],
+        "materials": [],
+        "id": 74
+    },
+    {
+        "name": "Fixie",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/chairs-and-stools/fixie/",
+        "description": "Fixie is a stool featuring a functional tubular structure which deeply identifies the product,making it instantly recognizable as a 3D graphic pattern or",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Fixie-33.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 37,
+                "depth": 37,
+                "height": 37,
+                "seat_height": 68
+            }
+        ],
+        "materials": [
+            "Internal seat frame: poplar plywood.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: metal frame.",
+            "Gas lift mechanism: Stabilus, which allows adjustable seat height.",
+            "Upholstery: non removable cover.",
+            "Base:"
+        ],
+        "id": 75
+    },
+    {
+        "name": "Orbit",
+        "designer": "Faye Toogood",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/orbit-low-table/",
+        "description": "Orbit coffee table and desk are part of Cosmic: Toogood’s collaborative collection with Tacchini. Cosmic is full of irregular, elliptical shapes. Orbit",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Orbit-LowTable.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 140,
+                "depth": 141,
+                "height": 65,
+                "seat_height": 28
+            }
+        ],
+        "materials": [
+            "Glossy lacquered wooden top with hide insert.",
+            "Wooden legs covered in hide.",
+            "Plaster version:",
+            "Green version:"
+        ],
+        "id": 76
+    },
+    {
+        "name": "Brut",
+        "designer": "Roberto Sironi",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/brut/",
+        "description": "Art is a spontaneous expression, which dissolves the constraints of traditional culture. The material as a raw element, worked and shaped to highlight its",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Brut.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 130,
+                "depth": 130,
+                "height": 110,
+                "seat_height": 34
+            }
+        ],
+        "materials": [
+            "Lightened concrete base and cast aluminum top.",
+            "Structure:",
+            "Top:"
+        ],
+        "id": 77
+    },
+    {
+        "name": "Cassero",
+        "designer": "Roberto Sironi",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/cassero/",
+        "description": "Two furnishing elements of pure material. Two architectural blocks in perfect scale. The materiality of the concrete becomes the protagonist and is",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Cassero-Rectangular.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 110,
+                "depth": 110,
+                "height": 70,
+                "seat_height": 22
+            },
+            {
+                "code": "Cod.",
+                "width": 85,
+                "depth": 85,
+                "height": 85,
+                "seat_height": 28
+            }
+        ],
+        "materials": [
+            "Low table in two sizes and heights, made of lightened concrete with wood texture.",
+            "Available in powder (rectangular) and earth (square) color.",
+            "Low Table 110×70 cm:",
+            "Low Table 85×85 cm:"
+        ],
+        "id": 78
+    },
+    {
+        "name": "Trono Low Table",
+        "designer": "Umberto Bellardi Ricci",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/trono-low-table/",
+        "description": "Exploring the dialogue between different materials, Umberto Bellardi Ricci gives life to a collection that stimulates the interaction between architecture",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Trono-Table-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 4050,
+                "height": 50,
+                "seat_height": 41
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 4060,
+                "height": 60,
+                "seat_height": 41
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 5050,
+                "height": 50,
+                "seat_height": 51
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 5060,
+                "height": 60,
+                "seat_height": 51
+            },
+            {
+                "code": "Cod.",
+                "width": 25,
+                "depth": 45,
+                "height": 43
+            },
+            {
+                "code": "Cod.",
+                "width": 25,
+                "depth": 40,
+                "height": 40,
+                "seat_height": 43
+            },
+            {
+                "code": "Cod.",
+                "width": 40,
+                "depth": 45,
+                "height": 49
+            },
+            {
+                "code": "Cod.",
+                "width": 40,
+                "depth": 45,
+                "height": 57
+            },
+            {
+                "code": "Cod.",
+                "width": 40,
+                "depth": 40,
+                "height": 40,
+                "seat_height": 49
+            },
+            {
+                "code": "Cod.",
+                "width": 40,
+                "depth": 40,
+                "height": 40,
+                "seat_height": 57
+            }
+        ],
+        "materials": [
+            "Top:"
+        ],
+        "id": 79
+    },
+    {
+        "name": "Altar",
+        "designer": "EWE Studio",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/altar/",
+        "description": "Sculpture and functionality come together to rediscover the rich Mexican artisan heritage through innovative means and languages. Meticulous craftsmanship",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Altar.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 50,
+                "height": 50,
+                "seat_height": 48
+            }
+        ],
+        "materials": [
+            "Finishes:"
+        ],
+        "id": 80
+    },
+    {
+        "name": "Cage",
+        "designer": "Gordon Guillaumier",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/cage/",
+        "description": "Minimalism and elegance are the key features of Cage coffee tables, with their metal base that is both support and frame for the precious marble top. Cage",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Cage-41.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 50,
+                "height": 50,
+                "seat_height": 47
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 100,
+                "height": 100,
+                "seat_height": 32
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 50,
+                "height": 50,
+                "seat_height": 50
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 100,
+                "height": 100,
+                "seat_height": 100
+            }
+        ],
+        "materials": [
+            "Top: 20 mm thick. In marble, laminate or glass. When it is in flat glass in mdf sp. 16 mm + 4 mm mirror. Stain-resistant treatment for marble available on request.",
+            "Base/legs: iron chromed or painted in different colors.",
+            "Base/legs:",
+            "Top:"
+        ],
+        "id": 81
+    },
+    {
+        "name": "Pluto",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/pluto/",
+        "description": "Designed by Studiopepe, the Pluto coffee tables are essentially sculptural shapes and bold details that call to mind cubism. Available in two sizes, the",
+        "image": "https://www.tacchini.it/wp-content/uploads/2020/12/Pluto-02.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 60,
+                "height": 60,
+                "seat_height": 40
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 120,
+                "height": 120,
+                "seat_height": 31
+            }
+        ],
+        "materials": [
+            "Base/legs: concrete legs fixed to the top with an iron plate th. 5 mm painted RAL 7016.",
+            "Top: frame in solid curved ash, top in ash-plated MDF front and back.",
+            "Base/legs finishes:",
+            "Top finishes:"
+        ],
+        "id": 82
+    },
+    {
+        "name": "Joaquim",
+        "designer": "Giorgio Bonaguro",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/joaquim/",
+        "description": "The softness of Brazilian furniture design between the 40s and 60s in the modernist architecture of Niemeyer, Costa, Vilanova Artigas and Bo Bardi",
+        "image": "https://www.tacchini.it/wp-content/uploads/2019/05/Joaquim-2.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 100,
+                "height": 100,
+                "seat_height": 30
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 50,
+                "height": 50,
+                "seat_height": 48
+            }
+        ],
+        "materials": [
+            "Base/legs: iron leg th. 4 mm to be painted or chromed.",
+            "Top: marble top th. 20 mm with rounded end r14, only with Patagonia top aluminum plate supporting the marble sp. 3 mm.",
+            "Base/legs:",
+            "Top:"
+        ],
+        "id": 83
+    },
+    {
+        "name": "Kanji",
+        "designer": "Monica Förster",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/kanji/",
+        "description": "Heavy elements are linked to lighter ones, like ink marks drawn on a sheet of paper to form a character, a letter, an ideogram. Clear contrasts of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/06/Tacchini-Kanji-LowTable-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 112,
+                "height": 112,
+                "seat_height": 32
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 77,
+                "height": 77,
+                "seat_height": 41
+            }
+        ],
+        "materials": [
+            "Top:",
+            "Base/legs:"
+        ],
+        "id": 84
+    },
+    {
+        "name": "Dolmen",
+        "designer": "Noé Duchaufour-Lawrance",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/dolmen/",
+        "description": "Forms that are lost in time, modeled by the erosion of the wind, sun and rain, become sculptures that almost seem to emerge from the ground. Simple and",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/06/Tacchini-Dolmen-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 131,
+                "height": 131,
+                "seat_height": 65
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 73,
+                "height": 73,
+                "seat_height": 55
+            }
+        ],
+        "materials": [
+            "Top and base/legs finishes:"
+        ],
+        "id": 85
+    },
+    {
+        "name": "Mill",
+        "designer": "Monica Förster",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/mill/",
+        "description": "The story of two elements, which rub against each other until they fit together perfectly. Monica Förster revisits the classic coffee tables with central",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/06/Tacchini-Mill-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 95,
+                "height": 95,
+                "seat_height": 34
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 62,
+                "height": 62,
+                "seat_height": 45
+            }
+        ],
+        "materials": [
+            "Top:",
+            "Base/legs:"
+        ],
+        "id": 86
+    },
+    {
+        "name": "Trampolino",
+        "designer": "Monica Förster",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/trampolino/",
+        "description": "An important wooden base, an almost suspended marble top and a central leg that runs along its entire length, supporting it. Three elements, a meeting of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/06/Tacchini-Trampolino-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 102,
+                "height": 102,
+                "seat_height": 102
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 60,
+                "height": 60,
+                "seat_height": 60
+            }
+        ],
+        "materials": [
+            "Top:",
+            "Base/legs:"
+        ],
+        "id": 87
+    },
+    {
+        "name": "Daze",
+        "designer": "Truly Truly",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/daze/",
+        "description": "Architectural shapes inspired this collection of low tables with futuristic lines by Dutch design studio Truly Truly. Made of bent and welded sheets of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/EDAZES.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 45,
+                "depth": 41,
+                "height": 5,
+                "seat_height": 42
+            },
+            {
+                "code": "Cod.",
+                "width": 60,
+                "depth": 41,
+                "height": 5,
+                "seat_height": 35
+            },
+            {
+                "code": "Cod.",
+                "width": 90,
+                "depth": 61,
+                "height": 5,
+                "seat_height": 25
+            }
+        ],
+        "materials": [
+            "Frame: metal sheets bent and weelded, powder coated with a special embossed paint for the base color which allow the second powder coating to grab on the first one.",
+            "Finishes EDAZES: bottom T104 Sage, shade T22 Yellow.",
+            "Finishes EDAZEM: bottom T01 White, shade T22 Yellow.",
+            "Finishes EDAZEL: bottom T105 Rust, shade T101 Pink."
+        ],
+        "id": 88
+    },
+    {
+        "name": "Soap",
+        "designer": "Gordon Guillaumier",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/soap/",
+        "description": "Gordon Guillaumier continues to explore elemental simplicity. Soap is a table with a discreet elegance. Its soft forms, rounded corners and precious,",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Soap-72.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 54,
+                "height": 54,
+                "seat_height": 54
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 130,
+                "height": 130,
+                "seat_height": 62
+            }
+        ],
+        "materials": [
+            "Top: table top thickness 12 mm around the edges and 20 mm in the middle. Anti-stain marble treatment available on request. For Sahara noir marble top, aluminium plate 3mm thick for reinforce the marble top.",
+            "Base/legs: tubular metal base Ø 16 mm available matt chromed or powder-coated painted in different colors.",
+            "Base/legs:",
+            "Top:"
+        ],
+        "id": 89
+    },
+    {
+        "name": "Pastilles Table",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/pastilles-table/",
+        "description": "The new project with Studiopepe is a collaboration with designers Arianna Lelli Mami and Chiara Di Pinto, the creative minds behind the consultancy.",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/12/Pastilles-Table-A.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 100,
+                "height": 100,
+                "seat_height": 33
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 50,
+                "height": 50,
+                "seat_height": 43
+            }
+        ],
+        "materials": [
+            "Internal frame: 18 mm thick poplar plywood.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Base/legs: 0.9 mm thick laminate in different colors.",
+            "Upholstery: not removable.",
+            "Base/legs:",
+            "Top:"
+        ],
+        "id": 90
+    },
+    {
+        "name": "Split",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/split-low/",
+        "description": "All-important and necessary accessories, Split coffee and side/occasional tables fit right into everyday life and also into the daily grind of contract",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Split-79.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 53,
+                "height": 53,
+                "seat_height": 50
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 70,
+                "height": 70,
+                "seat_height": 72
+            }
+        ],
+        "materials": [
+            "Base/legs: metal base powder-coated painted.",
+            "Top: thickness 19 mm MDF lacquered, or marble top. Anti stain marble treatment available on request.",
+            "Base/legs:",
+            "Top:"
+        ],
+        "id": 91
+    },
+    {
+        "name": "Polar Table",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/polar-table/",
+        "description": "A matching side table completes the Polar system. Also designed by Pearson Lloyd and inspired by spectacular glacier formations, it features asymmetrical",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/PolarTable-64.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 1,
+                "height": 49,
+                "seat_height": 41
+            }
+        ],
+        "materials": [
+            "Table: polypropylene stamp.",
+            "Finishes:"
+        ],
+        "id": 92
+    },
+    {
+        "name": "Ledge",
+        "designer": "Gordon Guillaumier",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/ledge/",
+        "description": "Designed to complement the sofas in the modular system Chill-Out, and echoing their essential lines, Ledge is a small coffee table with an offset metal",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Ledge-56-1.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 52,
+                "height": 28,
+                "seat_height": 52
+            }
+        ],
+        "materials": [
+            "Top: table top thickness 12 mm around the edges and 20 mm in the middle. Anti-stain marble treatment available on request.",
+            "Base/legs: tubular metal base Ø 16 mm available matt chromed or powder-coated painted in different colors.",
+            "Top:",
+            "Base/legs:"
+        ],
+        "id": 93
+    },
+    {
+        "name": "Chill-Out Table",
+        "designer": "Gordon Guillaumier",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/low-tables/chill-out-table/",
+        "description": "A system of sofas, armchairs and coffee tables, inspired by the themes of freedom, simplicity and lightness, Chill-Out are ideal for domestic or",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/Chill-Out-Table-1.svg",
+        "dimensions": [
+            {
+                "code": "1CHIL140W",
+                "width": 1,
+                "depth": 140,
+                "height": 142,
+                "seat_height": 67
+            },
+            {
+                "code": "1CHIL70W",
+                "width": 1,
+                "depth": 70,
+                "height": 72,
+                "seat_height": 67
+            }
+        ],
+        "materials": [
+            "Top: table top thickness 12 mm around the edges and 20 mm in the middle. Anti-stain treatment available on request.",
+            "Base/legs: tubular metal base Ø 16 mm available matt chromed or power-coated painted in different colors.",
+            "Top:",
+            "Base/legs:"
+        ],
+        "id": 94
+    },
+    {
+        "name": "Clockwise",
+        "designer": "Michael Anastassiades",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tables-desks-and-consoles/clockwise/",
+        "description": "Simple and monumental, Clockwise reveals its subtle humour only to those who manage to grasp the play of steps that define the position of the legs and",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Clockwise-Rectangular.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 250,
+                "depth": 250,
+                "height": 130,
+                "seat_height": 73
+            },
+            {
+                "code": "Cod.",
+                "width": 160,
+                "depth": 160,
+                "height": 160,
+                "seat_height": 73
+            }
+        ],
+        "materials": [
+            "Available in Verde Mediterraneo marble, Verde Avocado marble with a matte finish and in natural stained ash wood.",
+            "Marble structure:",
+            "Ash structure:"
+        ],
+        "id": 95
+    },
+    {
+        "name": "Orbit",
+        "designer": "Faye Toogood",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tables-desks-and-consoles/orbit/",
+        "description": "Orbit coffee table and desk are part of Cosmic: Toogood’s collaborative collection with Tacchini. Cosmic is full of irregular, elliptical shapes. Orbit",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Orbit-Desk.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 140,
+                "depth": 141,
+                "height": 65,
+                "seat_height": 75
+            },
+            {
+                "code": "Cod.",
+                "width": 140,
+                "depth": 141,
+                "height": 65,
+                "seat_height": 28
+            }
+        ],
+        "materials": [
+            "Glossy lacquered wooden top with hide insert.",
+            "Wooden legs covered in hide.",
+            "Plaster version:",
+            "Green version:"
+        ],
+        "id": 96
+    },
+    {
+        "name": "T–Table",
+        "designer": "Tobia Scarpa",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tables-desks-and-consoles/t-table/",
+        "description": "Two simple elements skilfully fit into each other, a bond studied down to the smallest detail that connects the top and the legs to ensure maximum",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-TTable-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 236,
+                "height": 236,
+                "seat_height": 109
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 322,
+                "height": 322,
+                "seat_height": 109
+            }
+        ],
+        "materials": [
+            "Top: open pore stained MDF oak veneer",
+            "Base/Legs: open pore stained plywood walnut veneer",
+            "Oak top:",
+            "Base/legs:"
+        ],
+        "id": 97
+    },
+    {
+        "name": "Orpheus",
+        "designer": "Lorenzo Bini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tables-desks-and-consoles/orpheus/",
+        "description": "An indefinite shape, a gesture, a single material. For this original dining table, Lorenzo Bini is inspired by the work of Cy Twombly and transforms it",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Orpheus.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 180,
+                "height": 200,
+                "seat_height": 161
+            }
+        ],
+        "materials": [
+            "Top and base/legs:"
+        ],
+        "id": 98
+    },
+    {
+        "name": "Parker",
+        "designer": "Lorenzo Bini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tables-desks-and-consoles/parker/",
+        "description": "Like “Orpheus” – the marble table born from the creativity of Lorenzo Bini – Parker takes up the indefinite shape of detail of Cy Twombly’s work but finds",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Parker-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 200,
+                "height": 200,
+                "seat_height": 161
+            }
+        ],
+        "materials": [
+            "Oak top and base/legs:"
+        ],
+        "id": 99
+    },
+    {
+        "name": "Togrul",
+        "designer": "Gordon Guillaumier",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tables-desks-and-consoles/togrul/",
+        "description": "A totem that transforms any room into a temple of conviviality. With Togrul, designer Gordon Guillaumier goes beyond the limits of matter to create a",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/01/Tacchini-2021-Togrul-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 95,
+                "height": 95,
+                "seat_height": 73
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 120,
+                "height": 120,
+                "seat_height": 73
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 160,
+                "height": 160,
+                "seat_height": 73
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 180,
+                "height": 180,
+                "seat_height": 73
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 240,
+                "height": 240,
+                "seat_height": 125
+            }
+        ],
+        "materials": [
+            "Top: top with a thickness of 20 mm. Stain-resistant treatment for marble available on request.",
+            "Undertop in mdf, 19 mm thick, matt black lacquered.",
+            "Base/legs: leg in rigid polyurethane, finishing with spatulated clay in different colors. Painted iron ballast inside the leg.",
+            "Top:",
+            "Base/legs:",
+            "Top and base/legs:"
+        ],
+        "id": 100
+    },
+    {
+        "name": "Split",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tables-desks-and-consoles/split/",
+        "description": "All-important and necessary accessories, Split coffee and side/occasional tables fit right into everyday life and also into the daily grind of contract",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Split-85.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 130,
+                "height": 127,
+                "seat_height": 72
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 220,
+                "height": 220,
+                "seat_height": 120
+            }
+        ],
+        "materials": [
+            "Base/legs: metal base powder-coated painted.",
+            "Top: thickness 19 mm MDF lacquered, or marble top. Anti stain marble treatment available on request.",
+            "Base/legs:",
+            "Top:"
+        ],
+        "id": 101
+    },
+    {
+        "name": "Kelly T",
+        "designer": "Claesson Koivisto Rune",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tables-desks-and-consoles/kelly-t/",
+        "description": "Kelly tables are a complete collection of proposals characterised by the same enjoyable formal language made of rounded and comfortable geometries. They",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/KellyT-49.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 99,
+                "height": 99,
+                "seat_height": 99
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 220,
+                "height": 220,
+                "seat_height": 99
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 2809,
+                "height": 280,
+                "seat_height": 99
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 120,
+                "height": 120,
+                "seat_height": 120
+            }
+        ],
+        "materials": [
+            "Base/legs: tubular metal frame Ø 18 mm (high tables), Ø 14 mm (low tables) powder-coated painted.",
+            "Table top: MDF 23 mm aluminium plated powder-coated. Finishes available: T-A (Embossed) or T-B (Velvet).",
+            "Base/legs:",
+            "Top:"
+        ],
+        "id": 102
+    },
+    {
+        "name": "Colombo and 1953",
+        "designer": "Lorenzo Bini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tables-desks-and-consoles/colombo-and-1953/",
+        "description": "In these consoles designed by Lorenzo Bini, modern and contemporary works are captured by a marble slab in an irregularly shaped plane. A few details are",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-1953.svg",
+        "dimensions": [
+            {
+                "code": "1953Cod.",
+                "width": 1953,
+                "depth": 1,
+                "height": 118,
+                "seat_height": 118
+            },
+            {
+                "code": "ColomboCod.",
+                "width": 1,
+                "depth": 133,
+                "height": 144,
+                "seat_height": 59
+            }
+        ],
+        "materials": [
+            "Top and base/legs:"
+        ],
+        "id": 103
+    },
+    {
+        "name": "Torii Love",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tables-desks-and-consoles/torii-love/",
+        "description": "In the console designed by Studiopepe, the torii, the traditional Japanese portals, are re-discovered through new functions and meanings. In a succession",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Torii-Love.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 150,
+                "height": 150,
+                "seat_height": 45
+            }
+        ],
+        "materials": [
+            "Finishes:"
+        ],
+        "id": 104
+    },
+    {
+        "name": "Astral",
+        "designer": "Faye Toogood",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/storage-cabinets/astral/",
+        "description": "Astral is a metal cabinet forming part of Cosmic: Toogood’s collaborative collection with Tacchini. Like the other pieces in Cosmic, Astral celebrates",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Astral.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 150,
+                "depth": 89,
+                "height": 32,
+                "seat_height": 149
+            }
+        ],
+        "materials": [
+            "Epoxy powder coated sheet metal frame, with matte internal and glossy external finishing.",
+            "Available in light (ivory and taupe) and dark (grey and green) color.",
+            "Plaster version (external/internal):",
+            "Green version (external/internal):"
+        ],
+        "id": 105
+    },
+    {
+        "name": "Serie 500",
+        "designer": "Gianfranco Frattini",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/storage-cabinets/serie-500/",
+        "description": "Still considered today one of the most characteristic and complete collections ever designed by Frattini, Serie 500 was born from careful observation of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Serie-500-3.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 503,
+                "depth": 210,
+                "height": 210,
+                "seat_height": 52
+            },
+            {
+                "code": "Cod.",
+                "width": 504,
+                "depth": 140,
+                "height": 141,
+                "seat_height": 52
+            }
+        ],
+        "materials": [
+            "Serie 500/3: three-unit sideboard with shutters and drawers in the left compartment; glass or wood shelves available as optional.",
+            "Serie 500/4: four-piece sideboard with shutters and drawers in the lower left compartment; glass or wood shelves available as options.",
+            "Base:"
+        ],
+        "id": 106
+    },
+    {
+        "name": "Chill-Out",
+        "designer": "Gordon Guillaumier",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/public-spaces-seating-and-modular-systems/chill-out/",
+        "description": "Design becomes a system in the Chill-Out project by Gordon Guillaumier. Linear geometries lend themselves to many different uses, shape-shifting into",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Chill-Out-Dimensions-04.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 212,
+                "depth": 214,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "Cod.",
+                "width": 212,
+                "depth": 214,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "Cod.",
+                "width": 212,
+                "depth": 214,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "Cod.",
+                "width": 212,
+                "depth": 214,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 44
+            },
+            {
+                "code": "Cod.",
+                "width": 141,
+                "depth": 144,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "Cod.",
+                "width": 141,
+                "depth": 144,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "Cod.",
+                "width": 141,
+                "depth": 144,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 71
+            }
+        ],
+        "materials": [
+            "Internal frame: poplar plywood 18 mm thick with metal frame with elastic belts.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Base: tubular metal base Ø 16 mm, available chromed or powder-coated painted.",
+            "Upholstery: non removable cover.",
+            "Base:",
+            "Top:"
+        ],
+        "id": 107
+    },
+    {
+        "name": "Chill-Out High",
+        "designer": "Gordon Guillaumier",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/public-spaces-seating-and-modular-systems/chill-out-high/",
+        "description": "When beauty is designed to go beyond the limits, over and above the standards of comfort and functionality, to further improve and inspire. Chill-Out High",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Chill-Out-High-26.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 212,
+                "depth": 214,
+                "height": 69,
+                "seat_height": 121
+            },
+            {
+                "code": "Cod.",
+                "width": 141,
+                "depth": 144,
+                "height": 69,
+                "seat_height": 121
+            },
+            {
+                "code": "Cod.",
+                "width": 141,
+                "depth": 144,
+                "height": 69,
+                "seat_height": 121
+            },
+            {
+                "code": "Cod.",
+                "width": 141,
+                "depth": 144,
+                "height": 69,
+                "seat_height": 121
+            },
+            {
+                "code": "Cod.",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 121
+            },
+            {
+                "code": "High",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "High",
+                "width": 70,
+                "depth": 74,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "High",
+                "width": 141,
+                "depth": 144,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "High",
+                "width": 141,
+                "depth": 144,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "High",
+                "width": 141,
+                "depth": 144,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "High",
+                "width": 212,
+                "depth": 214,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "High",
+                "width": 212,
+                "depth": 214,
+                "height": 69,
+                "seat_height": 71
+            },
+            {
+                "code": "High",
+                "width": 212,
+                "depth": 214,
+                "height": 69,
+                "seat_height": 71
+            }
+        ],
+        "materials": [
+            "Internal frame: poplar plywood 18 mm thick with metal frame with elastic belts.",
+            "Padding: differentiated-density polyurethane foam.",
+            "Base: tubular metal base Ø 16 mm, available chromed or powder-coated painted.",
+            "Upholstery: non removable cover.",
+            "Base:",
+            "Top:"
+        ],
+        "id": 108
+    },
+    {
+        "name": "Polar",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/public-spaces-seating-and-modular-systems/polar/",
+        "description": "Polar is a seating system inspired by the icebergs of the northern seas. Its components all feature solid volumes and oblique lines, which can be combined",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Polar-36.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 234,
+                "depth": 234,
+                "height": 107,
+                "seat_height": 69
+            },
+            {
+                "code": "Cod.",
+                "width": 234,
+                "depth": 234,
+                "height": 107,
+                "seat_height": 39
+            },
+            {
+                "code": "Cod.",
+                "width": 234,
+                "depth": 234,
+                "height": 107,
+                "seat_height": 69
+            },
+            {
+                "code": "Cod.",
+                "width": 234,
+                "depth": 234,
+                "height": 107,
+                "seat_height": 39
+            },
+            {
+                "code": "Cod.",
+                "width": 234,
+                "depth": 234,
+                "height": 107,
+                "seat_height": 69
+            },
+            {
+                "code": "Cod.",
+                "width": 234,
+                "depth": 234,
+                "height": 107,
+                "seat_height": 39
+            },
+            {
+                "code": "Cod.",
+                "width": 234,
+                "depth": 234,
+                "height": 107,
+                "seat_height": 69
+            },
+            {
+                "code": "Cod.",
+                "width": 234,
+                "depth": 234,
+                "height": 107,
+                "seat_height": 39
+            }
+        ],
+        "materials": [
+            "Internal frameSeat frame: poplar plywood 18mm thick with elastic belts, with fiberboard timber lateral frame. Back frame: cold foam with metal inserts.",
+            "PaddingSeat: cold foam, with lateral covering with polyurethane foam. Back: cold foam.",
+            "Base: aluminium feet."
+        ],
+        "id": 109
+    },
+    {
+        "name": "Polar Perch",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/public-spaces-seating-and-modular-systems/polar-perch/",
+        "description": "An ingenious design with many different perspectives, it intelligently interprets the uniqueness and needs of an increasingly mobile and multi-faceted",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/PolarPerch-46.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 220,
+                "depth": 220,
+                "height": 79,
+                "seat_height": 70
+            },
+            {
+                "code": "Cod.",
+                "width": 207,
+                "depth": 207,
+                "height": 84,
+                "seat_height": 5
+            }
+        ],
+        "materials": [
+            "Internal frame: poplar plywood 18 mm thick + cold polyurethane foam + fiberboard timber.",
+            "Padding: cold foam.",
+            "Connection plate: steel plate 10 mm, 360 mm long, with rubber base 4 mm thick and two steel tubes diameter 30 mm.",
+            "Base: die-cast aluminium feet.",
+            "Upholstery: non removable cover."
+        ],
+        "id": 110
+    },
+    {
+        "name": "Galleria",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/public-spaces-seating-and-modular-systems/galleria/",
+        "description": "Galleria is a complete design with the versatility to create a vast range of different solutions: a linear bench, a double corner seat, an island perfect",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/Galleria-33.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 250,
+                "depth": 250,
+                "height": 250,
+                "seat_height": 42
+            },
+            {
+                "code": "Cod.",
+                "width": 250,
+                "depth": 250,
+                "height": 250,
+                "seat_height": 42
+            },
+            {
+                "code": "Cod.",
+                "width": 250,
+                "depth": 250,
+                "height": 250,
+                "seat_height": 42
+            },
+            {
+                "code": "Cod.",
+                "width": 300,
+                "depth": 300,
+                "height": 98,
+                "seat_height": 42
+            },
+            {
+                "code": "Cod.",
+                "width": 400,
+                "depth": 400,
+                "height": 98,
+                "seat_height": 42
+            },
+            {
+                "code": "Cod.",
+                "width": 300,
+                "depth": 300,
+                "height": 49,
+                "seat_height": 42
+            },
+            {
+                "code": "Cod.",
+                "width": 400,
+                "depth": 400,
+                "height": 250,
+                "seat_height": 42
+            }
+        ],
+        "materials": [
+            "Frame: modular system benches in solid ash wood mm 49.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Base: tee steel beam linked to 10 mm steel blade or steel drum leg. Powder-coated painted.",
+            "Upholstery: non removable cover.",
+            "Table: steel top table mounted to beam.",
+            "Occasional side table: honeycomb ash wood lacquered.",
+            "Base:",
+            "Top:"
+        ],
+        "id": 111
+    },
+    {
+        "name": "Stone",
+        "designer": "PearsonLloyd",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/public-spaces-seating-and-modular-systems/stone/",
+        "description": "The dramatic allure of shapes sculpted by nature, unbelievably transformed into modular seating elements featuring sleek, rounded lines beautifully",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/11/StoneH-75.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 200,
+                "depth": 200,
+                "height": 200,
+                "seat_height": 73
+            },
+            {
+                "code": "Cod.",
+                "width": 230,
+                "depth": 230,
+                "height": 230,
+                "seat_height": 73
+            },
+            {
+                "code": "Cod.",
+                "width": 120,
+                "depth": 120,
+                "height": 238,
+                "seat_height": 112
+            }
+        ],
+        "materials": [
+            "Internal frame: poplar plywood 18 mm with elastic belts.",
+            "Padding: differentiated - density polyurethane foam.",
+            "Upholstery: non removable cover. Possibility of combining different fabrics or fabrics and leathers for the back and the seat.",
+            "Feet: painted or chromed aluminium feet.",
+            "Base:"
+        ],
+        "id": 112
+    },
+    {
+        "name": "Pigreco The Blue Window",
+        "designer": "Tobia Scarpa",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/limited-edition/pigreco-the-blue-window/",
+        "description": "The new limited edition, The Blue Window, comes in a special finish chosen by the architect Tobia Scarpa, in a limited edition series of 100 exclusive",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/01/Tacchini-2021-Pigreco.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 55,
+                "depth": 55,
+                "height": 1,
+                "seat_height": 40
+            }
+        ],
+        "materials": [
+            "Internal structure: 18 mm poplar plywood, with elastic straps.",
+            "Padding: polyurethane foam in different densities.",
+            "Structure: natural stained open pore American walnut, open pore T134 walnut stained ash or open pore T122 anthracite stained ash.",
+            "Cover: not removable.",
+            "Walnut version",
+            "Ashwood version"
+        ],
+        "id": 113
+    },
+    {
+        "name": "Pigreco Numbered Limited Edition",
+        "designer": "Tobia Scarpa",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/limited-edition/pigreco-numbered-limited-edition/",
+        "description": "Pigreco is an unparalleled piece of cult design, because it is the fruit of a thought, rather than simply the need to achieve an objective. It is an",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/01/Tacchini-2021-Pigreco.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 55,
+                "depth": 55,
+                "height": 1,
+                "seat_height": 40
+            }
+        ],
+        "materials": [
+            "Internal structure: 18 mm poplar plywood, with elastic straps.",
+            "Padding: polyurethane foam in different densities.",
+            "Structure: natural stained open pore American walnut, open pore T134 walnut stained ash or open pore T122 anthracite stained ash.",
+            "Cover: not removable.",
+            "Walnut version",
+            "Ashwood version"
+        ],
+        "id": 114
+    },
+    {
+        "name": "Dana",
+        "designer": "Jean-Pierre Garrault/Henri Delord",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/dana/",
+        "description": "A luminous sphere seems almost suspended in time and space. A metal structure seduces the gaze with its striking simplicity and the boldness of its",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Drawings-Dana-B.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 40,
+                "height": 48,
+                "seat_height": 267
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 40,
+                "height": 48,
+                "seat_height": 267
+            }
+        ],
+        "materials": [
+            "Tubular structure in chromed metal and light source in composite material."
+        ],
+        "id": 115
+    },
+    {
+        "name": "Lunar",
+        "designer": "Faye Toogood",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/lunar/",
+        "description": "Lunar form a constellation of scrunchable, glowing lights designed by Faye Toogood. This range of lighting epitomises Toogood’s playful and tactile",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Lunar-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 43,
+                "height": 60
+            },
+            {
+                "code": "Cod.",
+                "width": 2,
+                "depth": 60,
+                "height": 85
+            },
+            {
+                "code": "Cod.",
+                "width": 3,
+                "depth": 85,
+                "height": 120
+            }
+        ],
+        "materials": [
+            "Suspension lamp in three sizes made of natural and paper fibers.",
+            "LED light body."
+        ],
+        "id": 116
+    },
+    {
+        "name": "Doric",
+        "designer": "Umberto Bellardi Ricci",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/doric/",
+        "description": "Doric is designed by Umberto Bellardi Ricci for Tacchini: a wall light that evokes the Doric columns of classical Greece and is inspired by the designer’s",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Doric.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 40,
+                "height": 14,
+                "seat_height": 55
+            }
+        ],
+        "materials": [
+            "Painted sheet metal wall lamp with led bulbs.",
+            "Painted structure:"
+        ],
+        "id": 117
+    },
+    {
+        "name": "Vertical Nest",
+        "designer": "Brian Thoreen",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/vertical-nest/",
+        "description": "Soft folds become luminous sculptures that seem to grow naturally. The light diffuses calmly, and blurs perceptions and contours creating an atmosphere of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Vertical-Nest-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 90,
+                "depth": 40,
+                "height": 40,
+                "seat_height": 90
+            },
+            {
+                "code": "Cod.",
+                "width": 140,
+                "depth": 32,
+                "height": 140
+            }
+        ],
+        "materials": [],
+        "id": 118
+    },
+    {
+        "name": "Mano Light",
+        "designer": "Umberto Bellardi Ricci",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/mano-light/",
+        "description": "A metal sheet, simple and precise folds, a light. Inspired by the gesture of the hand protecting a candle flame, the Mano Light collection is designed as",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Mano-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 183,
+                "depth": 40,
+                "height": 30,
+                "seat_height": 183
+            },
+            {
+                "code": "Cod.",
+                "width": 62,
+                "depth": 28,
+                "height": 20,
+                "seat_height": 62
+            }
+        ],
+        "materials": [
+            "Chromed structure:",
+            "Painted structure"
+        ],
+        "id": 119
+    },
+    {
+        "name": "Fackel",
+        "designer": "Umberto Bellardi Ricci",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/fackel-light/",
+        "description": "Fackel is the German word for the medieval wall torches that released naked flames on the walls of castles and convents. Inspired by these ancient lamps,",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Fackel.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 191,
+                "depth": 6,
+                "height": 192
+            }
+        ],
+        "materials": [
+            "Chromed structure:",
+            "Painted structure:"
+        ],
+        "id": 120
+    },
+    {
+        "name": "Equinox",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/equinox/",
+        "description": "A dense, almost mysterious light is filtered through soft and enveloping materials. Luminosity and transparencies fluctuate, creating repetitions of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Equinox-02.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 102,
+                "depth": 80,
+                "height": 102
+            },
+            {
+                "code": "Cod.",
+                "width": 90,
+                "depth": 65,
+                "height": 90
+            }
+        ],
+        "materials": [],
+        "id": 121
+    },
+    {
+        "name": "Solstice",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/solstice/",
+        "description": "A dense, almost mysterious light is filtered through soft and enveloping materials. Luminosity and transparencies fluctuate, creating repetitions of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Solstice.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 60,
+                "depth": 40,
+                "height": 60
+            }
+        ],
+        "materials": [
+            "Colors"
+        ],
+        "id": 122
+    },
+    {
+        "name": "A.D.A.",
+        "designer": "Umberto Riva",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/a-d-a/",
+        "description": "As envisioned by the great master, Umberto Riva, the A.D.A. lamp takes shape, as often occurs, from other forms. Then, little-by-little, during the design",
+        "image": "https://www.tacchini.it/wp-content/uploads/2020/12/ADA.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 48,
+                "depth": 48,
+                "height": 51
+            }
+        ],
+        "materials": [
+            "Body:",
+            "Lampshape:"
+        ],
+        "id": 123
+    },
+    {
+        "name": "Alma",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/alma/",
+        "description": "Hand-woven natural rattan, cement and bush-hammered limestone meet in this item, in a playful mix. Unusual superimpositions of sources give life to a lamp",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/06/Tacchini-Alma-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 52,
+                "depth": 72,
+                "height": 52,
+                "seat_height": 5
+            }
+        ],
+        "materials": [
+            "Lampshade:",
+            "Structure:",
+            "Base"
+        ],
+        "id": 124
+    },
+    {
+        "name": "E63",
+        "designer": "Umberto Riva",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/e63/",
+        "description": "The design for this lamp dates back to 1963, and today it is reissued with the name E63. This alphanumeric code is a reflection of the intellectual",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/12/E63.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 63,
+                "depth": 17,
+                "height": 21,
+                "seat_height": 7
+            }
+        ],
+        "materials": [
+            "Chromed structure:",
+            "Painted structure:",
+            "Transparent light bulb E14 LED 5w 2700k included. Schuko plug."
+        ],
+        "id": 125
+    },
+    {
+        "name": "Sophia",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/sophia/",
+        "description": "A small sphere of light, which almost looks like a pearl still enclosed in its shell, dazzles with absolute purity. Ceramic and opal glass are dressed in",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/06/Tacchini-Sophia-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 50,
+                "depth": 38,
+                "height": 50
+            }
+        ],
+        "materials": [
+            "Structure"
+        ],
+        "id": 126
+    },
+    {
+        "name": "Miss Pack",
+        "designer": "Alvino Bagni",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/miss-pack/",
+        "description": "The Miss Pack lamp is also a product of the studio of Alvino Bagni, Florentine artisan and ceramist. A lamp inspired by motorcycle helmets but crafted",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/MissPack.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 28,
+                "depth": 28,
+                "height": 25,
+                "seat_height": 23
+            }
+        ],
+        "materials": [
+            "Glazed ceramic, produceds with a plaster mold.",
+            "It is baked twice, the first one at 1050°, to harden ceramic, and the second one at 970° to dry the painting.",
+            "Mirror head bulb LED 2700k 4W. Two poles plug.",
+            "Finishes:"
+        ],
+        "id": 127
+    },
+    {
+        "name": "Gunta",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/gunta/",
+        "description": "An ethereal and floating sculpture that transforms matter into a design tool. A warm and suffused glow that divides the space, but at the same time unites",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/06/Tacchini-Gunta-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 182,
+                "height": 45,
+                "seat_height": 163
+            },
+            {
+                "code": "Cod.",
+                "width": 2,
+                "depth": 138,
+                "height": 42,
+                "seat_height": 125
+            }
+        ],
+        "materials": [
+            "Base:"
+        ],
+        "id": 128
+    },
+    {
+        "name": "Leise",
+        "designer": "Salem van der Swaagh",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/leise/",
+        "description": "In German, “leise” means silent. Inspired by the warmth and quiet that tapestries have given to interior spaces for centuries, Salem van der Swaagh",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Leise.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 100,
+                "height": 13,
+                "seat_height": 143
+            }
+        ],
+        "materials": [],
+        "id": 129
+    },
+    {
+        "name": "Jacob",
+        "designer": "Salem van der Swaagh",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/jacob/",
+        "description": "Casual, rhythmic, intense nuances. The Jacob rug is inspired by two motifs very dear to the designer: the spotted fleece of the Jacob sheep – an ancient",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Kuschel.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 300250,
+                "depth": 300,
+                "height": 400
+            }
+        ],
+        "materials": [
+            "Natural wool rug with handwoven and hand-knotted threads;",
+            "Available in white and caramel.",
+            "Fringe of the same material."
+        ],
+        "id": 130
+    },
+    {
+        "name": "Kuschel",
+        "designer": "Salem van der Swaagh",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/kuschel/",
+        "description": "Kuschel writes a love letter to wool. It says that weaving can become a means of communicating and connecting with the surrounding environment, a",
+        "image": "https://www.tacchini.it/wp-content/uploads/2023/04/Tacchini-Kuschel.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 3,
+                "depth": 4,
+                "height": 300,
+                "seat_height": 400
+            }
+        ],
+        "materials": [
+            "Colors"
+        ],
+        "id": 131
+    },
+    {
+        "name": "Anni",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/anni/",
+        "description": "Natural tones intertwine with different motifs, leaving room for small colored details that catch the eye with distant Bauhaus references. Contrasts of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/06/Tacchini-Anni-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 3,
+                "depth": 4,
+                "height": 300,
+                "seat_height": 400
+            },
+            {
+                "code": "Cod.",
+                "width": 3,
+                "depth": 4,
+                "height": 300,
+                "seat_height": 400
+            },
+            {
+                "code": "Cod.",
+                "width": 17,
+                "depth": 24,
+                "height": 170,
+                "seat_height": 240
+            }
+        ],
+        "materials": [
+            "Decor:"
+        ],
+        "id": 132
+    },
+    {
+        "name": "Narciso",
+        "designer": "Umberto Riva",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/narciso/",
+        "description": "Tacchini Edizioni expands its collection of designer rugs with a new creation from Umberto Riva: Narciso. It draws inspiration from the picture of the",
+        "image": "https://www.tacchini.it/wp-content/uploads/2019/07/Narciso.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 23,
+                "depth": 3,
+                "height": 300,
+                "seat_height": 230
+            }
+        ],
+        "materials": [
+            "Fleece 100% Himalayan wool, cotton weave. Handmade with loom in Nepal (Handknotted technique).",
+            "125.000 knots/sqm."
+        ],
+        "id": 133
+    },
+    {
+        "name": "Rituale",
+        "designer": "Umberto Riva",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/rituale/",
+        "description": "A year after the re-edition of the E63 lamp, Tacchini Edizioni rediscovers the more private side of Umberto Riva. Known as an architect and designer, Riva",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/Rituale.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 23,
+                "depth": 3,
+                "height": 300,
+                "seat_height": 230
+            }
+        ],
+        "materials": [
+            "Fleece 100% Himalayan wool, cotton weave. Handmade with loom in Nepal (Handknotted technique).",
+            "125.000 knots/sqm."
+        ],
+        "id": 134
+    },
+    {
+        "name": "Aqua Regis",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/aqua-regis/",
+        "description": "The Aqua Regis amphora takes its name from the famous liquid named by alchemists for its ability to dissolve gold. Thrown on a potter’s wheel and made of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2020/12/AquaRegis-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 35,
+                "depth": 16,
+                "height": 23,
+                "seat_height": 35
+            }
+        ],
+        "materials": [],
+        "id": 135
+    },
+    {
+        "name": "Bubble",
+        "designer": "Alvino Bagni",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/bubble/",
+        "description": "Alvino Bagni was a great artisan and Florentine ceramist. His studio, opened in 1946 in Lastra a Signa in the province of Florence, wrote the history of",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/EBUB24.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 24,
+                "depth": 20,
+                "height": 24
+            },
+            {
+                "code": "Cod.",
+                "width": 28,
+                "depth": 24,
+                "height": 28
+            },
+            {
+                "code": "Cod.",
+                "width": 32,
+                "depth": 28,
+                "height": 32
+            }
+        ],
+        "materials": [
+            "Realized in glazed ceramic, with the turning process by hand. So each piece could be differ a little bit from all others. This is not a defect but a particular feature of artisan products. It is baked twice, the first one at 1050°C, to harden ceramic, and the second one at 970°C to dry the painting.",
+            "Hand Made in Italy",
+            "Finishes EBUB24:",
+            "Finishes EBUB28",
+            "Finishes EBUB32"
+        ],
+        "id": 136
+    },
+    {
+        "name": "Friedl, Lucie and Marlene",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/friedl-lucie-and-marlene/",
+        "description": "Archetypes, lines and geometries come together. Colors and tactile sensations take shape. Studiopepe delivers poor materials and ancient workmanship to",
+        "image": "https://www.tacchini.it/wp-content/uploads/2022/06/Tacchini-Friedl-01.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 30,
+                "depth": 14,
+                "height": 30
+            },
+            {
+                "code": "Cod.",
+                "width": 26,
+                "depth": 26,
+                "height": 10,
+                "seat_height": 26
+            },
+            {
+                "code": "Cod.",
+                "width": 40,
+                "depth": 18,
+                "height": 18,
+                "seat_height": 40
+            }
+        ],
+        "materials": [],
+        "id": 137
+    },
+    {
+        "name": "Mantiqueira",
+        "designer": "Domingos Tótora",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/mantiqueira/",
+        "description": "These inspired creations lie midway between art and design, defying definition. The new Mantiqueira by Domingos Tótora for Tacchini Edizioni are an",
+        "image": "https://www.tacchini.it/wp-content/uploads/2019/07/Mantiqueira-Brown.svg",
+        "dimensions": [
+            {
+                "code": "BrownCod.",
+                "width": 49,
+                "depth": 9,
+                "height": 49,
+                "seat_height": 50
+            },
+            {
+                "code": "BlackCod.",
+                "width": 40,
+                "depth": 16,
+                "height": 23,
+                "seat_height": 40
+            },
+            {
+                "code": "RedCod.",
+                "width": 25,
+                "depth": 23,
+                "height": 23,
+                "seat_height": 25
+            },
+            {
+                "code": "BeigeCod.",
+                "width": 35,
+                "depth": 50,
+                "height": 50,
+                "seat_height": 35
+            }
+        ],
+        "materials": [],
+        "id": 138
+    },
+    {
+        "name": "Pablo & Dora",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/pablo-dora/",
+        "description": "The cubist Pablo and Dora vases are a tribute to Pablo Picasso and Dora Maar, his companion and muse. Crafted using the coil pottery technique, the brown",
+        "image": "https://www.tacchini.it/wp-content/uploads/2020/12/Dora.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 51,
+                "depth": 30,
+                "height": 27,
+                "seat_height": 51
+            },
+            {
+                "code": "Cod.",
+                "width": 51,
+                "depth": 30,
+                "height": 25,
+                "seat_height": 5
+            }
+        ],
+        "materials": [],
+        "id": 139
+    },
+    {
+        "name": "Pi-Dou",
+        "designer": "Alvino Bagni",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/pi-dou/",
+        "description": "Pi-Dou is the re-edition of the eponymous vase created by Florentine ceramist Alvino Bagni, who designed it shortly after visiting the Pompidou Centre in",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/EPIDL.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 25,
+                "depth": 8,
+                "height": 30
+            },
+            {
+                "code": "Cod.",
+                "width": 30,
+                "depth": 8,
+                "height": 26
+            }
+        ],
+        "materials": [
+            "For platinum and bronze version",
+            "Realized in glazed ceramic, produced with a plaster mold.",
+            "It is baked three times, the first one at 1050°C, to harden ceramic, the second one at 970°C to dry the painting and after the second firing, Pi-Dou vases are hand-glazed with a brush with metals like Platinum and Bronze, and finally they are baked for the third time at 720°C, to fix metals.",
+            "For color version",
+            "Realized in glazed ceramic, produced with a plaster mold.",
+            "It is baked twice, the first one at 1050°C, to harden ceramic, the second one at 970°C to dry the painting."
+        ],
+        "id": 140
+    },
+    {
+        "name": "Venus",
+        "designer": "Studiopepe",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/venus/",
+        "description": "Named Venus in honor of the planet long associated with beauty and harmonious shapes, the vase’s rounded contours celebrate femininity and the anatomical",
+        "image": "https://www.tacchini.it/wp-content/uploads/2020/12/Venus.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 36,
+                "depth": 39,
+                "height": 17,
+                "seat_height": 36
+            }
+        ],
+        "materials": [],
+        "id": 141
+    },
+    {
+        "name": "Tarsia",
+        "designer": "Maria Gabriella Zecca",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/tarsia/",
+        "description": "The age-old art of marquetry comes back to life in these two trays, which reinterpret ancient and precious wood- working techniques. Like in a Renaissance",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/12/Tarsia-27.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 48,
+                "depth": 48,
+                "height": 33,
+                "seat_height": 3
+            }
+        ],
+        "materials": [
+            "Finishes:"
+        ],
+        "id": 142
+    },
+    {
+        "name": "Stellar",
+        "designer": "Faye Toogood",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/stellar/",
+        "description": "Stellar has the appearance of a mirror buried in a cushion. Designed by Faye Toogood, Stellar reflects the materials and forms used throughout Cosmic –",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Stellar.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 190,
+                "depth": 85,
+                "height": 190
+            }
+        ],
+        "materials": [
+            "Wall mirror with wooden frame covered with natural and paper fibers.",
+            "One size."
+        ],
+        "id": 143
+    },
+    {
+        "name": "Ancora",
+        "designer": "Umberto Bellardi Ricci",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/ancora/",
+        "description": "From the first piece of bent metal, Umberto Bellardi Ricci experiments with shapes and reflections to capture and refract light as if it were coming from",
+        "image": "https://www.tacchini.it/wp-content/uploads/2024/04/Tacchini-Drawings-Ancora-L.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 105,
+                "height": 33,
+                "seat_height": 180
+            },
+            {
+                "code": "Cod.",
+                "width": 1,
+                "depth": 105,
+                "height": 33,
+                "seat_height": 180
+            }
+        ],
+        "materials": [
+            "Wall mirror with painted metal frame and led lighting.",
+            "Painted structure:"
+        ],
+        "id": 144
+    },
+    {
+        "name": "Dorian",
+        "designer": "Dorian",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/dorian/",
+        "description": "Mirrors serve to amplify a space: not only because they make it seem larger, but also because they show impossible points of view, where you look left to",
+        "image": "https://www.tacchini.it/wp-content/uploads/2017/12/Dorian.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 49,
+                "depth": 49,
+                "height": 2,
+                "seat_height": 91
+            }
+        ],
+        "materials": [],
+        "id": 145
+    },
+    {
+        "name": "Soleil",
+        "designer": "Giorgio Bonaguro",
+        "link": "https://www.tacchini.it/en/https://www.tacchini.it/en/tacchiniedizioni/soleil/",
+        "description": "The mirror is an object filled with meaning, an object and, at the same time, a reflection: just like a jewel which is both an ornament and the reflection",
+        "image": "https://www.tacchini.it/wp-content/uploads/2018/05/Soleil.svg",
+        "dimensions": [
+            {
+                "code": "Cod.",
+                "width": 50,
+                "depth": 50,
+                "height": 5,
+                "seat_height": 90
+            }
+        ],
+        "materials": [
+            "Metal frame with dark brown leather cord.",
+            "Mirror with wooden bottom."
+        ],
+        "id": 146
+    }
+]
