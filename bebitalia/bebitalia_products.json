@@ -1,1206 +1,6 @@
 [
     {
         "id": 1,
-        "name": "Dambodue",
-        "designer": "Piero Lissoni",
-        "year": "2024",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-dambodue-divani.html"
-    },
-    {
-        "id": 2,
-        "name": "Charles Carré",
-        "designer": "Antonio Citterio",
-        "year": "2024",
-        "category": "Sofas",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-charles-carre-divani.html"
-    },
-    {
-        "id": 3,
-        "name": "Charles Large Carré",
-        "designer": "Antonio Citterio",
-        "year": "2024",
-        "category": "Sofas",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-charles-large-carre-divani.html"
-    },
-    {
-        "id": 4,
-        "name": "Diesis",
-        "designer": "Antonio Citterio Paolo Nava",
-        "year": "1979",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-diesis-divani.html"
-    },
-    {
-        "id": 5,
-        "name": "Camaleonda x Stella McCartney",
-        "designer": "Mario Bellini",
-        "year": "2023",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-camaleonda-divani-mccartney.html"
-    },
-    {
-        "id": 6,
-        "name": "Dambo",
-        "designer": "Piero Lissoni",
-        "year": "2023",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-dambo-divani.html"
-    },
-    {
-        "id": 7,
-        "name": "Tortello",
-        "designer": "Edward Barber & Jay Osgerby",
-        "year": "2023",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-tortello-divani.html"
-    },
-    {
-        "id": 8,
-        "name": "Le Bambole x Stella McCartney",
-        "designer": "Mario Bellini",
-        "year": "2022",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-le-bambole-divani-mccartney.html"
-    },
-    {
-        "id": 9,
-        "name": "Le Bambole",
-        "designer": "Mario Bellini",
-        "year": "2022",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-le-bambole-divani.html"
-    },
-    {
-        "id": 10,
-        "name": "Noonu",
-        "designer": "Antonio Citterio",
-        "year": "2021",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-noonu-divani.html"
-    },
-    {
-        "id": 11,
-        "name": "Camaleonda",
-        "designer": "Mario Bellini",
-        "year": "2020",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-camaleonda-divani.html"
-    },
-    {
-        "id": 12,
-        "name": "Naviglio",
-        "designer": "Yabu Pushelberg",
-        "year": "2020",
-        "category": "Sofas",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-naviglio-divani.html"
-    },
-    {
-        "id": 13,
-        "name": "Flair O' Maxi",
-        "designer": "Monica Armani",
-        "year": "2024",
-        "category": "Armchairs",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-flair-o-maxi-poltrone.html"
-    },
-    {
-        "id": 14,
-        "name": "Narinari",
-        "designer": "Tiziano Guardini & Luigi Ciuffreda",
-        "year": "2024",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-narinari-poltrone.html"
-    },
-    {
-        "id": 15,
-        "name": "Omoi",
-        "designer": "Naoto Fukasawa",
-        "year": "2024",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-omoi-poltrone.html"
-    },
-    {
-        "id": 16,
-        "name": "Tortello",
-        "designer": "Edward Barber & Jay Osgerby",
-        "year": "2023",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-tortello-poltrone.html"
-    },
-    {
-        "id": 17,
-        "name": "Eryt",
-        "designer": "Piero Lissoni",
-        "year": "2023",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-eryt-poltrone.html"
-    },
-    {
-        "id": 18,
-        "name": "Serie Up Compasso d'Oro",
-        "designer": "Gaetano Pesce",
-        "year": "2023",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-serie-up-poltrone-compasso-d-oro.html"
-    },
-    {
-        "id": 19,
-        "name": "Le Bambole x Stella McCartney",
-        "designer": "Mario Bellini",
-        "year": "2022",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-le-bambole-poltrone-mccartney.html"
-    },
-    {
-        "id": 20,
-        "name": "Cordoba",
-        "designer": "Foster+Partners Industrial Design Studio",
-        "year": "2022",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-cordoba-poltrone.html"
-    },
-    {
-        "id": 21,
-        "name": "Pochette",
-        "designer": "Piero Lissoni",
-        "year": "2022",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-pochette-poltrone.html"
-    },
-    {
-        "id": 22,
-        "name": "Le Bambole",
-        "designer": "Mario Bellini",
-        "year": "2022",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-le-bambole-poltrone.html"
-    },
-    {
-        "id": 23,
-        "name": "Harbor Laidback",
-        "designer": "Naoto Fukasawa",
-        "year": "2021",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-harbor-laidback-poltrone.html"
-    },
-    {
-        "id": 24,
-        "name": "Husk",
-        "designer": "Patricia Urquiola",
-        "year": "2011",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-husk-poltrone.html"
-    },
-    {
-        "id": 25,
-        "name": "Heri O'",
-        "designer": "Monica Armani",
-        "year": "2023",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-heri-o-sedie.html"
-    },
-    {
-        "id": 26,
-        "name": "Flair O' Couture",
-        "designer": "Monica Armani",
-        "year": "2023",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-flair-o-couture-sedie.html"
-    },
-    {
-        "id": 27,
-        "name": "Flair O'",
-        "designer": "Monica Armani",
-        "year": "2021",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-flair-o-sedie.html"
-    },
-    {
-        "id": 28,
-        "name": "Papilio Shell",
-        "designer": "Naoto Fukasawa",
-        "year": "2015",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-papilio-shell-sedie.html"
-    },
-    {
-        "id": 29,
-        "name": "Mjna",
-        "designer": "Piero Lissoni",
-        "year": "2022",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-mjna-sedie.html"
-    },
-    {
-        "id": 30,
-        "name": "Husk",
-        "designer": "Patricia Urquiola",
-        "year": "2012",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-husk-sedie.html"
-    },
-    {
-        "id": 31,
-        "name": "Jens",
-        "designer": "Antonio Citterio",
-        "year": "2017",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-jens-sedie.html"
-    },
-    {
-        "id": 32,
-        "name": "Charlotte",
-        "designer": "Antonio Citterio",
-        "year": "2015",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-charlotte-sedie.html"
-    },
-    {
-        "id": 33,
-        "name": "Vol Au Vent",
-        "designer": "Mario Bellini",
-        "year": "2001",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-vol-au-vent-sedie.html"
-    },
-    {
-        "id": 34,
-        "name": "Papilio",
-        "designer": "Naoto Fukasawa",
-        "year": "2008",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-papilio-sedie.html"
-    },
-    {
-        "id": 35,
-        "name": "Mini Papilio",
-        "designer": "Naoto Fukasawa",
-        "year": "2012",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-mini-papilio-sedie.html"
-    },
-    {
-        "id": 36,
-        "name": "Doyl",
-        "designer": "Gabriele & Oscar Buratti",
-        "year": "2011",
-        "category": "Chairs",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-doyl-sedie.html"
-    },
-    {
-        "id": 37,
-        "name": "Alys 10",
-        "designer": "Gabriele & Oscar Buratti",
-        "year": "2023",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-alys-10-letti.html"
-    },
-    {
-        "id": 38,
-        "name": "Bamboletto",
-        "designer": "Mario Bellini",
-        "year": "2022",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-bamboletto-letti.html"
-    },
-    {
-        "id": 39,
-        "name": "Husk",
-        "designer": "Patricia Urquiola",
-        "year": "2013",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-husk-letti.html"
-    },
-    {
-        "id": 40,
-        "name": "Alys",
-        "designer": "Gabriele & Oscar Buratti",
-        "year": "2013",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-alys-letti.html"
-    },
-    {
-        "id": 41,
-        "name": "Tufty-Bed",
-        "designer": "Patricia Urquiola",
-        "year": "2007",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-tufty-bed-letti.html"
-    },
-    {
-        "id": 42,
-        "name": "Charles",
-        "designer": "Antonio Citterio",
-        "year": "2004",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-charles-letti.html"
-    },
-    {
-        "id": 43,
-        "name": "Richard",
-        "designer": "Antonio Citterio",
-        "year": "2017",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-richard-letti.html"
-    },
-    {
-        "id": 44,
-        "name": "Papilio",
-        "designer": "Naoto Fukasawa",
-        "year": "2013",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-papilio-letti.html"
-    },
-    {
-        "id": 45,
-        "name": "Siena",
-        "designer": "Naoto Fukasawa",
-        "year": "2007",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-siena-letti.html"
-    },
-    {
-        "id": 46,
-        "name": "B&B Atoll",
-        "designer": "Antonio Citterio",
-        "year": "2021",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-b-b-atoll-letti.html"
-    },
-    {
-        "id": 47,
-        "name": "Noonu",
-        "designer": "Antonio Citterio",
-        "year": "2021",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-noonu-letti.html"
-    },
-    {
-        "id": 48,
-        "name": "Saké",
-        "designer": "Piero Lissoni",
-        "year": "2017",
-        "category": "Beds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-sake-letti.html"
-    },
-    {
-        "id": 49,
-        "name": "Allure O' Dot",
-        "designer": "Monica Armani",
-        "year": "2024",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-allure-o-dot-tavoli.html"
-    },
-    {
-        "id": 50,
-        "name": "Assiale",
-        "designer": "Piero Lissoni",
-        "year": "2024",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-assiale-tavoli.html"
-    },
-    {
-        "id": 51,
-        "name": "Isos",
-        "designer": "Piero Lissoni",
-        "year": "2024",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-isos-tavoli.html"
-    },
-    {
-        "id": 52,
-        "name": "Tobi-Ishi",
-        "designer": "Edward Barber & Jay Osgerby",
-        "year": "2012",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-tobi-ishi-tavoli.html"
-    },
-    {
-        "id": 53,
-        "name": "Allure O'",
-        "designer": "Monica Armani",
-        "year": "2021",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-allure-o-tavoli.html"
-    },
-    {
-        "id": 54,
-        "name": "Tobi-Ishi striped marble",
-        "designer": "Edward Barber & Jay Osgerby",
-        "year": "2022",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-tobi-ishi-tavoli-rigato.html"
-    },
-    {
-        "id": 55,
-        "name": "Oskar",
-        "designer": "Vincent Van Duysen",
-        "year": "2015",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-oskar-tavoli.html"
-    },
-    {
-        "id": 56,
-        "name": "Mirto Indoor",
-        "designer": "Antonio Citterio",
-        "year": "2014",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-mirto-indoor-tavoli.html"
-    },
-    {
-        "id": 57,
-        "name": "Seven",
-        "designer": "Jean-Marie Massaud",
-        "year": "2008",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-seven-tavoli.html"
-    },
-    {
-        "id": 58,
-        "name": "Alex",
-        "designer": "Antonio Citterio",
-        "year": "2017",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-alex-tavoli.html"
-    },
-    {
-        "id": 59,
-        "name": "Link",
-        "designer": "Jakob Wagner",
-        "year": "2009",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-link-tavoli.html"
-    },
-    {
-        "id": 60,
-        "name": "Eileen",
-        "designer": "Antonio Citterio",
-        "year": "2003",
-        "category": "Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-eileen-tavoli.html"
-    },
-    {
-        "id": 61,
-        "name": "Allure O' Dot",
-        "designer": "Monica Armani",
-        "year": "2024",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-allure-o-dot-tavolini.html"
-    },
-    {
-        "id": 62,
-        "name": "Diesis",
-        "designer": "Antonio Citterio Paolo Nava",
-        "year": "1979",
-        "category": "Small Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-diesis-tavolini.html"
-    },
-    {
-        "id": 63,
-        "name": "Lemante",
-        "designer": "Kensaku Oshiro",
-        "year": "2023",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-lemante-tavolini.html"
-    },
-    {
-        "id": 64,
-        "name": "Quiet Lines",
-        "designer": "Gabriel Tan",
-        "year": "2023",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-quiet-lines-tavolini.html"
-    },
-    {
-        "id": 65,
-        "name": "Planck",
-        "designer": "Piero Lissoni",
-        "year": "2022",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-planck-tavolini.html"
-    },
-    {
-        "id": 66,
-        "name": "Tobi-Ishi",
-        "designer": "Edward Barber & Jay Osgerby",
-        "year": "2014",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-tobi-ishi-tavolini.html"
-    },
-    {
-        "id": 67,
-        "name": "Sir Vito",
-        "designer": "Studio Kairos",
-        "year": "2021",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-sir-vito-tavolini.html"
-    },
-    {
-        "id": 68,
-        "name": "Formiche",
-        "designer": "Piero Lissoni",
-        "year": "2017",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-formiche-tavolini.html"
-    },
-    {
-        "id": 69,
-        "name": "Alanda '18",
-        "designer": "Paolo Piva",
-        "year": "2018",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-alanda-18-tavolini.html"
-    },
-    {
-        "id": 70,
-        "name": "Mera",
-        "designer": "Antonio Citterio",
-        "year": "2012",
-        "category": "Small Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-mera-tavolini.html"
-    },
-    {
-        "id": 71,
-        "name": "Fat-Fat",
-        "designer": "Patricia Urquiola",
-        "year": "2004",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-fat-fat-tavolini.html"
-    },
-    {
-        "id": 72,
-        "name": "Fat-Fat & Lady-Fat",
-        "designer": "Patricia Urquiola",
-        "year": "2004",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-fat-fat-lady-fat-tavolini.html"
-    },
-    {
-        "id": 73,
-        "name": "Mirto Indoor",
-        "designer": "Antonio Citterio",
-        "year": "2016",
-        "category": "Ottomans",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-mirto-indoor-complementi-pouf.html"
-    },
-    {
-        "id": 74,
-        "name": "Frank",
-        "designer": "Antonio Citterio",
-        "year": "2015",
-        "category": "Ottomans",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-frank-complementi-pouf.html"
-    },
-    {
-        "id": 75,
-        "name": "Harry Large",
-        "designer": "Antonio Citterio",
-        "year": "2004",
-        "category": "Ottomans",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-harry-large-complementi-pouf.html"
-    },
-    {
-        "id": 76,
-        "name": "Hive",
-        "designer": "Atelier Oï",
-        "year": "2013",
-        "category": "Ottomans",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-hive-complementi-pouf.html"
-    },
-    {
-        "id": 77,
-        "name": "P60",
-        "designer": "Antonio Citterio",
-        "year": "2003",
-        "category": "Ottomans",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-p60-complementi-pouf.html"
-    },
-    {
-        "id": 78,
-        "name": "Tetrami",
-        "designer": "Naoto Fukasawa",
-        "year": "2023",
-        "category": "Living storage units",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-tetrami-contenitori-zona-giorno.html"
-    },
-    {
-        "id": 79,
-        "name": "Flat.C",
-        "designer": "Antonio Citterio",
-        "year": "2008",
-        "category": "Living storage units",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-flat-c-contenitori-zona-giorno.html"
-    },
-    {
-        "id": 80,
-        "name": "Jack",
-        "designer": "Michael Anastassiades",
-        "year": "2018",
-        "category": "Living storage units",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-jack-contenitori-zona-giorno.html"
-    },
-    {
-        "id": 81,
-        "name": "Eucalipto",
-        "designer": "Antonio Citterio",
-        "year": "2017",
-        "category": "Living storage units",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-eucalipto-contenitori-zona-giorno.html"
-    },
-    {
-        "id": 82,
-        "name": "Pab",
-        "designer": "Studio Kairos",
-        "year": "2009",
-        "category": "Living storage units",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-pab-contenitori-zona-giorno.html"
-    },
-    {
-        "id": 83,
-        "name": "Liagò",
-        "designer": "Piero Lissoni",
-        "year": "2020",
-        "category": "Living storage units",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-liago-contenitori-zona-giorno.html"
-    },
-    {
-        "id": 84,
-        "name": "Surface",
-        "designer": "Vincent Van Duysen",
-        "year": "2015",
-        "category": "Living storage units",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-surface-contenitori-zona-giorno.html"
-    },
-    {
-        "id": 85,
-        "name": "Dado",
-        "designer": "Studio Kairos",
-        "year": "2007",
-        "category": "Living storage units",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-dado-contenitori-zona-giorno.html"
-    },
-    {
-        "id": 86,
-        "name": "Shelf",
-        "designer": "Naoto Fukasawa",
-        "year": "2006",
-        "category": "Living storage units",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-shelf-contenitori-zona-giorno.html"
-    },
-    {
-        "id": 87,
-        "name": "Shelf X",
-        "designer": "Naoto Fukasawa",
-        "year": "2005",
-        "category": "Living storage units",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-shelf-x-contenitori-zona-giorno.html"
-    },
-    {
-        "id": 88,
-        "name": "Ac Executive",
-        "designer": "Antonio Citterio",
-        "year": "2007",
-        "category": "Living storage units",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-ac-executive-contenitori.html"
-    },
-    {
-        "id": 89,
-        "name": "Surface",
-        "designer": "Vincent Van Duysen",
-        "year": "2010",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-surface-tavolini.html"
-    },
-    {
-        "id": 90,
-        "name": "Backstage - Backstage '18",
-        "designer": "Antonio Citterio",
-        "year": "2013",
-        "category": "Night storage units",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-backstage-contenitori-zona-notte.html"
-    },
-    {
-        "id": 91,
-        "name": "Quiet Lines writing-desk",
-        "designer": "Gabriel Tan",
-        "year": "2023",
-        "category": "Complements",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-quiet-lines-complementi-scrittoi.html"
-    },
-    {
-        "id": 92,
-        "name": "Quiet Lines bench",
-        "designer": "Gabriel Tan",
-        "year": "2023",
-        "category": "Complements",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-quiet-lines-complementi-panche.html"
-    },
-    {
-        "id": 93,
-        "name": "Quiet Lines screen",
-        "designer": "Gabriel Tan",
-        "year": "2023",
-        "category": "Complements",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-quiet-lines-complementi-paraventi.html"
-    },
-    {
-        "id": 94,
-        "name": "Bull",
-        "designer": "Naoto Fukasawa",
-        "year": "2019",
-        "category": "Complements",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-bull-complementi-panche.html"
-    },
-    {
-        "id": 95,
-        "name": "Gli Scacchi",
-        "designer": "Mario Bellini",
-        "year": "2020",
-        "category": "Complements",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-gli-scacchi-complementi.html"
-    },
-    {
-        "id": 96,
-        "name": "Mirto Indoor",
-        "designer": "Antonio Citterio",
-        "year": "2016",
-        "category": "Complements",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-mirto-indoor-complementi-consoles.html"
-    },
-    {
-        "id": 97,
-        "name": "Eileen console",
-        "designer": "Antonio Citterio",
-        "year": "2003",
-        "category": "Complements",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-eileen-complementi-consoles.html"
-    },
-    {
-        "id": 98,
-        "name": "Eileen writing-desk",
-        "designer": "Antonio Citterio",
-        "year": "2004",
-        "category": "Complements",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-eileen-complementi-scrittoi.html"
-    },
-    {
-        "id": 99,
-        "name": "Frank '12",
-        "designer": "Antonio Citterio",
-        "year": "2012",
-        "category": "Complements",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-frank-12-complementi-consoles.html"
-    },
-    {
-        "id": 100,
-        "name": "Dip & Double Dip",
-        "designer": "Chris Howker",
-        "year": "2004",
-        "category": "Complements",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-dip-double-dip-complementi-panche.html"
-    },
-    {
-        "id": 101,
         "name": "Madison",
         "designer": "Monica Armani",
         "year": "2017",
@@ -1212,103 +12,55 @@
         "link": "https://www.bebitalia.com/en-us/en-madison-complementi-specchi.html"
     },
     {
-        "id": 102,
-        "name": "Timo",
-        "designer": "Studio Juma",
-        "year": "2018",
-        "category": "Complements",
+        "id": 2,
+        "name": "Naviglio",
+        "designer": "Yabu Pushelberg",
+        "year": "2020",
+        "category": "Sofas",
         "description": "No description available",
         "technical_information": {
             "": ""
         },
-        "link": "https://www.bebitalia.com/en-us/en-timo-complementi-tappeti-beb.html"
+        "link": "https://www.bebitalia.com/en-us/en-naviglio-divani.html"
     },
     {
-        "id": 103,
-        "name": "Joker",
-        "designer": "Nicole Äbischer",
-        "year": "2007",
-        "category": "Objects",
+        "id": 3,
+        "name": "P60",
+        "designer": "Antonio Citterio",
+        "year": "2003",
+        "category": "Ottomans",
         "description": "No description available",
         "technical_information": {
             "": ""
         },
-        "link": "https://www.bebitalia.com/en-us/en-joker-oggettistica.html"
+        "link": "https://www.bebitalia.com/en-us/en-p60-complementi-pouf.html"
     },
     {
-        "id": 104,
-        "name": "Overscale Flames",
-        "designer": "Jean-Marie Massaud",
-        "year": "2007",
-        "category": "Objects",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-overscale-flames-oggettistica.html"
-    },
-    {
-        "id": 105,
-        "name": "Bunch",
-        "designer": "Naoto Fukasawa",
-        "year": "2005",
-        "category": "Objects",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-bunch-oggettistica.html"
-    },
-    {
-        "id": 106,
-        "name": "Gold Collection",
-        "designer": "Marcel Wanders",
-        "year": "2007",
-        "category": "Objects",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-gold-collection-oggettistica.html"
-    },
-    {
-        "id": 107,
-        "name": "Inside",
-        "designer": "Naoto Fukasawa",
-        "year": "2005",
-        "category": "Objects",
+        "id": 4,
+        "name": "Jens",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Chairs",
         "description": "",
         "technical_information": {
             "": ""
         },
-        "link": "https://www.bebitalia.com/en-us/en-inside-oggettistica.html"
+        "link": "https://www.bebitalia.com/en-us/en-us-jens-sedie.html"
     },
     {
-        "id": 108,
-        "name": "Loop Medium",
-        "designer": "Jakob Wagner",
-        "year": "2007",
-        "category": "Objects",
-        "description": "No description available",
+        "id": 5,
+        "name": "Papilio",
+        "designer": "Naoto Fukasawa",
+        "year": "2013",
+        "category": "Beds",
+        "description": "",
         "technical_information": {
             "": ""
         },
-        "link": "https://www.bebitalia.com/en-us/en-loop-medium-oggettistica.html"
+        "link": "https://www.bebitalia.com/en-us/en-papilio-letti.html"
     },
     {
-        "id": 109,
-        "name": "Lys",
-        "designer": "Jakob Wagner",
-        "year": "2007",
-        "category": "Objects",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-lys-oggettistica.html"
-    },
-    {
-        "id": 110,
+        "id": 6,
         "name": "Outside",
         "designer": "Naoto Fukasawa",
         "year": "2005",
@@ -1320,7 +72,1543 @@
         "link": "https://www.bebitalia.com/en-us/en-outside-oggettistica.html"
     },
     {
+        "id": 7,
+        "name": "Overscale Flames",
+        "designer": "Jean-Marie Massaud",
+        "year": "2007",
+        "category": "Objects",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-overscale-flames-oggettistica.html"
+    },
+    {
+        "id": 8,
+        "name": "Pab",
+        "designer": "Studio Kairos",
+        "year": "2009",
+        "category": "Living storage units",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-pab-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 9,
+        "name": "Mirto Indoor",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-mirto-indoor-tavolini.html"
+    },
+    {
+        "id": 10,
+        "name": "Michel Effe",
+        "designer": "Antonio Citterio",
+        "year": "2015",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-michel-effe-divani.html"
+    },
+    {
+        "id": 11,
+        "name": "Shelf X",
+        "designer": "Naoto Fukasawa",
+        "year": "2005",
+        "category": "Living storage units",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-shelf-x-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 12,
+        "name": "Siena",
+        "designer": "Naoto Fukasawa",
+        "year": "2007",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-siena-letti.html"
+    },
+    {
+        "id": 13,
+        "name": "Madison",
+        "designer": "Monica Armani",
+        "year": "2017",
+        "category": "Complements",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-madison-complementi-specchi.html"
+    },
+    {
+        "id": 14,
+        "name": "Naviglio",
+        "designer": "Yabu Pushelberg",
+        "year": "2020",
+        "category": "Sofas",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-naviglio-divani.html"
+    },
+    {
+        "id": 15,
+        "name": "P60",
+        "designer": "Antonio Citterio",
+        "year": "2003",
+        "category": "Ottomans",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-p60-complementi-pouf.html"
+    },
+    {
+        "id": 16,
+        "name": "Jens",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-jens-sedie.html"
+    },
+    {
+        "id": 17,
+        "name": "Papilio",
+        "designer": "Naoto Fukasawa",
+        "year": "2013",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-papilio-letti.html"
+    },
+    {
+        "id": 18,
+        "name": "Outside",
+        "designer": "Naoto Fukasawa",
+        "year": "2005",
+        "category": "Objects",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-outside-oggettistica.html"
+    },
+    {
+        "id": 19,
+        "name": "Overscale Flames",
+        "designer": "Jean-Marie Massaud",
+        "year": "2007",
+        "category": "Objects",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-overscale-flames-oggettistica.html"
+    },
+    {
+        "id": 20,
+        "name": "Pab",
+        "designer": "Studio Kairos",
+        "year": "2009",
+        "category": "Living storage units",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-pab-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 21,
+        "name": "Mirto Indoor",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-mirto-indoor-tavolini.html"
+    },
+    {
+        "id": 22,
+        "name": "Michel Effe",
+        "designer": "Antonio Citterio",
+        "year": "2015",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-michel-effe-divani.html"
+    },
+    {
+        "id": 23,
+        "name": "Shelf X",
+        "designer": "Naoto Fukasawa",
+        "year": "2005",
+        "category": "Living storage units",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-shelf-x-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 24,
+        "name": "Siena",
+        "designer": "Naoto Fukasawa",
+        "year": "2007",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-siena-letti.html"
+    },
+    {
+        "id": 25,
+        "name": "Dambodue",
+        "designer": "Piero Lissoni",
+        "year": "2024",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-dambodue-divani.html"
+    },
+    {
+        "id": 26,
+        "name": "Charles Carré",
+        "designer": "Antonio Citterio",
+        "year": "2024",
+        "category": "Sofas",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-charles-carre-divani.html"
+    },
+    {
+        "id": 27,
+        "name": "Charles Large Carré",
+        "designer": "Antonio Citterio",
+        "year": "2024",
+        "category": "Sofas",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-charles-large-carre-divani.html"
+    },
+    {
+        "id": 28,
+        "name": "Diesis",
+        "designer": "Antonio Citterio Paolo Nava",
+        "year": "1979",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-diesis-divani.html"
+    },
+    {
+        "id": 29,
+        "name": "Camaleonda x Stella McCartney",
+        "designer": "Mario Bellini",
+        "year": "2023",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-camaleonda-divani-mccartney.html"
+    },
+    {
+        "id": 30,
+        "name": "Dambo",
+        "designer": "Piero Lissoni",
+        "year": "2023",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-dambo-divani.html"
+    },
+    {
+        "id": 31,
+        "name": "Tortello",
+        "designer": "Edward Barber & Jay Osgerby",
+        "year": "2023",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-tortello-divani.html"
+    },
+    {
+        "id": 32,
+        "name": "Le Bambole x Stella McCartney",
+        "designer": "Mario Bellini",
+        "year": "2022",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-le-bambole-divani-mccartney.html"
+    },
+    {
+        "id": 33,
+        "name": "Le Bambole",
+        "designer": "Mario Bellini",
+        "year": "2022",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-le-bambole-divani.html"
+    },
+    {
+        "id": 34,
+        "name": "Noonu",
+        "designer": "Antonio Citterio",
+        "year": "2021",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-noonu-divani.html"
+    },
+    {
+        "id": 35,
+        "name": "Camaleonda",
+        "designer": "Mario Bellini",
+        "year": "2020",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-camaleonda-divani.html"
+    },
+    {
+        "id": 36,
+        "name": "Naviglio",
+        "designer": "Yabu Pushelberg",
+        "year": "2020",
+        "category": "Sofas",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-naviglio-divani.html"
+    },
+    {
+        "id": 37,
+        "name": "Flair O' Maxi",
+        "designer": "Monica Armani",
+        "year": "2024",
+        "category": "Armchairs",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-flair-o-maxi-poltrone.html"
+    },
+    {
+        "id": 38,
+        "name": "Narinari",
+        "designer": "Tiziano Guardini & Luigi Ciuffreda",
+        "year": "2024",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-narinari-poltrone.html"
+    },
+    {
+        "id": 39,
+        "name": "Omoi",
+        "designer": "Naoto Fukasawa",
+        "year": "2024",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-omoi-poltrone.html"
+    },
+    {
+        "id": 40,
+        "name": "Tortello",
+        "designer": "Edward Barber & Jay Osgerby",
+        "year": "2023",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-tortello-poltrone.html"
+    },
+    {
+        "id": 41,
+        "name": "Eryt",
+        "designer": "Piero Lissoni",
+        "year": "2023",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-eryt-poltrone.html"
+    },
+    {
+        "id": 42,
+        "name": "Serie Up Compasso d'Oro",
+        "designer": "Gaetano Pesce",
+        "year": "2023",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-serie-up-poltrone-compasso-d-oro.html"
+    },
+    {
+        "id": 43,
+        "name": "Le Bambole x Stella McCartney",
+        "designer": "Mario Bellini",
+        "year": "2022",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-le-bambole-poltrone-mccartney.html"
+    },
+    {
+        "id": 44,
+        "name": "Cordoba",
+        "designer": "Foster+Partners Industrial Design Studio",
+        "year": "2022",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-cordoba-poltrone.html"
+    },
+    {
+        "id": 45,
+        "name": "Pochette",
+        "designer": "Piero Lissoni",
+        "year": "2022",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-pochette-poltrone.html"
+    },
+    {
+        "id": 46,
+        "name": "Le Bambole",
+        "designer": "Mario Bellini",
+        "year": "2022",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-le-bambole-poltrone.html"
+    },
+    {
+        "id": 47,
+        "name": "Harbor Laidback",
+        "designer": "Naoto Fukasawa",
+        "year": "2021",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-harbor-laidback-poltrone.html"
+    },
+    {
+        "id": 48,
+        "name": "Husk",
+        "designer": "Patricia Urquiola",
+        "year": "2011",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-husk-poltrone.html"
+    },
+    {
+        "id": 49,
+        "name": "Heri O'",
+        "designer": "Monica Armani",
+        "year": "2023",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-heri-o-sedie.html"
+    },
+    {
+        "id": 50,
+        "name": "Flair O' Couture",
+        "designer": "Monica Armani",
+        "year": "2023",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-flair-o-couture-sedie.html"
+    },
+    {
+        "id": 51,
+        "name": "Flair O'",
+        "designer": "Monica Armani",
+        "year": "2021",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-flair-o-sedie.html"
+    },
+    {
+        "id": 52,
+        "name": "Papilio Shell",
+        "designer": "Naoto Fukasawa",
+        "year": "2015",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-papilio-shell-sedie.html"
+    },
+    {
+        "id": 53,
+        "name": "Mjna",
+        "designer": "Piero Lissoni",
+        "year": "2022",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-mjna-sedie.html"
+    },
+    {
+        "id": 54,
+        "name": "Husk",
+        "designer": "Patricia Urquiola",
+        "year": "2012",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-husk-sedie.html"
+    },
+    {
+        "id": 55,
+        "name": "Jens",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-jens-sedie.html"
+    },
+    {
+        "id": 56,
+        "name": "Charlotte",
+        "designer": "Antonio Citterio",
+        "year": "2015",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-charlotte-sedie.html"
+    },
+    {
+        "id": 57,
+        "name": "Vol Au Vent",
+        "designer": "Mario Bellini",
+        "year": "2001",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-vol-au-vent-sedie.html"
+    },
+    {
+        "id": 58,
+        "name": "Papilio",
+        "designer": "Naoto Fukasawa",
+        "year": "2008",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-papilio-sedie.html"
+    },
+    {
+        "id": 59,
+        "name": "Mini Papilio",
+        "designer": "Naoto Fukasawa",
+        "year": "2012",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-mini-papilio-sedie.html"
+    },
+    {
+        "id": 60,
+        "name": "Doyl",
+        "designer": "Gabriele & Oscar Buratti",
+        "year": "2011",
+        "category": "Chairs",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-doyl-sedie.html"
+    },
+    {
+        "id": 61,
+        "name": "Alys 10",
+        "designer": "Gabriele & Oscar Buratti",
+        "year": "2023",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-alys-10-letti.html"
+    },
+    {
+        "id": 62,
+        "name": "Bamboletto",
+        "designer": "Mario Bellini",
+        "year": "2022",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-bamboletto-letti.html"
+    },
+    {
+        "id": 63,
+        "name": "Husk",
+        "designer": "Patricia Urquiola",
+        "year": "2013",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-husk-letti.html"
+    },
+    {
+        "id": 64,
+        "name": "Alys",
+        "designer": "Gabriele & Oscar Buratti",
+        "year": "2013",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-alys-letti.html"
+    },
+    {
+        "id": 65,
+        "name": "Tufty-Bed",
+        "designer": "Patricia Urquiola",
+        "year": "2007",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-tufty-bed-letti.html"
+    },
+    {
+        "id": 66,
+        "name": "Charles",
+        "designer": "Antonio Citterio",
+        "year": "2004",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-charles-letti.html"
+    },
+    {
+        "id": 67,
+        "name": "Richard",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-richard-letti.html"
+    },
+    {
+        "id": 68,
+        "name": "Papilio",
+        "designer": "Naoto Fukasawa",
+        "year": "2013",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-papilio-letti.html"
+    },
+    {
+        "id": 69,
+        "name": "Siena",
+        "designer": "Naoto Fukasawa",
+        "year": "2007",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-siena-letti.html"
+    },
+    {
+        "id": 70,
+        "name": "B&B Atoll",
+        "designer": "Antonio Citterio",
+        "year": "2021",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-b-b-atoll-letti.html"
+    },
+    {
+        "id": 71,
+        "name": "Noonu",
+        "designer": "Antonio Citterio",
+        "year": "2021",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-noonu-letti.html"
+    },
+    {
+        "id": 72,
+        "name": "Saké",
+        "designer": "Piero Lissoni",
+        "year": "2017",
+        "category": "Beds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-sake-letti.html"
+    },
+    {
+        "id": 73,
+        "name": "Allure O' Dot",
+        "designer": "Monica Armani",
+        "year": "2024",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-allure-o-dot-tavoli.html"
+    },
+    {
+        "id": 74,
+        "name": "Assiale",
+        "designer": "Piero Lissoni",
+        "year": "2024",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-assiale-tavoli.html"
+    },
+    {
+        "id": 75,
+        "name": "Isos",
+        "designer": "Piero Lissoni",
+        "year": "2024",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-isos-tavoli.html"
+    },
+    {
+        "id": 76,
+        "name": "Tobi-Ishi",
+        "designer": "Edward Barber & Jay Osgerby",
+        "year": "2012",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-tobi-ishi-tavoli.html"
+    },
+    {
+        "id": 77,
+        "name": "Allure O'",
+        "designer": "Monica Armani",
+        "year": "2021",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-allure-o-tavoli.html"
+    },
+    {
+        "id": 78,
+        "name": "Tobi-Ishi striped marble",
+        "designer": "Edward Barber & Jay Osgerby",
+        "year": "2022",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-tobi-ishi-tavoli-rigato.html"
+    },
+    {
+        "id": 79,
+        "name": "Oskar",
+        "designer": "Vincent Van Duysen",
+        "year": "2015",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-oskar-tavoli.html"
+    },
+    {
+        "id": 80,
+        "name": "Mirto Indoor",
+        "designer": "Antonio Citterio",
+        "year": "2014",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-mirto-indoor-tavoli.html"
+    },
+    {
+        "id": 81,
+        "name": "Seven",
+        "designer": "Jean-Marie Massaud",
+        "year": "2008",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-seven-tavoli.html"
+    },
+    {
+        "id": 82,
+        "name": "Alex",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-alex-tavoli.html"
+    },
+    {
+        "id": 83,
+        "name": "Link",
+        "designer": "Jakob Wagner",
+        "year": "2009",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-link-tavoli.html"
+    },
+    {
+        "id": 84,
+        "name": "Eileen",
+        "designer": "Antonio Citterio",
+        "year": "2003",
+        "category": "Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-eileen-tavoli.html"
+    },
+    {
+        "id": 85,
+        "name": "Allure O' Dot",
+        "designer": "Monica Armani",
+        "year": "2024",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-allure-o-dot-tavolini.html"
+    },
+    {
+        "id": 86,
+        "name": "Diesis",
+        "designer": "Antonio Citterio Paolo Nava",
+        "year": "1979",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-diesis-tavolini.html"
+    },
+    {
+        "id": 87,
+        "name": "Lemante",
+        "designer": "Kensaku Oshiro",
+        "year": "2023",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-lemante-tavolini.html"
+    },
+    {
+        "id": 88,
+        "name": "Quiet Lines",
+        "designer": "Gabriel Tan",
+        "year": "2023",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-quiet-lines-tavolini.html"
+    },
+    {
+        "id": 89,
+        "name": "Planck",
+        "designer": "Piero Lissoni",
+        "year": "2022",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-planck-tavolini.html"
+    },
+    {
+        "id": 90,
+        "name": "Tobi-Ishi",
+        "designer": "Edward Barber & Jay Osgerby",
+        "year": "2014",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-tobi-ishi-tavolini.html"
+    },
+    {
+        "id": 91,
+        "name": "Sir Vito",
+        "designer": "Studio Kairos",
+        "year": "2021",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-sir-vito-tavolini.html"
+    },
+    {
+        "id": 92,
+        "name": "Formiche",
+        "designer": "Piero Lissoni",
+        "year": "2017",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-formiche-tavolini.html"
+    },
+    {
+        "id": 93,
+        "name": "Alanda '18",
+        "designer": "Paolo Piva",
+        "year": "2018",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-alanda-18-tavolini.html"
+    },
+    {
+        "id": 94,
+        "name": "Mera",
+        "designer": "Antonio Citterio",
+        "year": "2012",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-mera-tavolini.html"
+    },
+    {
+        "id": 95,
+        "name": "Fat-Fat",
+        "designer": "Patricia Urquiola",
+        "year": "2004",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-fat-fat-tavolini.html"
+    },
+    {
+        "id": 96,
+        "name": "Fat-Fat & Lady-Fat",
+        "designer": "Patricia Urquiola",
+        "year": "2004",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-fat-fat-lady-fat-tavolini.html"
+    },
+    {
+        "id": 97,
+        "name": "Mirto Indoor",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Ottomans",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-mirto-indoor-complementi-pouf.html"
+    },
+    {
+        "id": 98,
+        "name": "Frank",
+        "designer": "Antonio Citterio",
+        "year": "2015",
+        "category": "Ottomans",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-frank-complementi-pouf.html"
+    },
+    {
+        "id": 99,
+        "name": "Harry Large",
+        "designer": "Antonio Citterio",
+        "year": "2004",
+        "category": "Ottomans",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-harry-large-complementi-pouf.html"
+    },
+    {
+        "id": 100,
+        "name": "Hive",
+        "designer": "Atelier Oï",
+        "year": "2013",
+        "category": "Ottomans",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-hive-complementi-pouf.html"
+    },
+    {
+        "id": 101,
+        "name": "P60",
+        "designer": "Antonio Citterio",
+        "year": "2003",
+        "category": "Ottomans",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-p60-complementi-pouf.html"
+    },
+    {
+        "id": 102,
+        "name": "Tetrami",
+        "designer": "Naoto Fukasawa",
+        "year": "2023",
+        "category": "Living storage units",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-tetrami-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 103,
+        "name": "Flat.C",
+        "designer": "Antonio Citterio",
+        "year": "2008",
+        "category": "Living storage units",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-flat-c-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 104,
+        "name": "Jack",
+        "designer": "Michael Anastassiades",
+        "year": "2018",
+        "category": "Living storage units",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-jack-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 105,
+        "name": "Eucalipto",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Living storage units",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-eucalipto-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 106,
+        "name": "Pab",
+        "designer": "Studio Kairos",
+        "year": "2009",
+        "category": "Living storage units",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-pab-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 107,
+        "name": "Liagò",
+        "designer": "Piero Lissoni",
+        "year": "2020",
+        "category": "Living storage units",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-liago-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 108,
+        "name": "Surface",
+        "designer": "Vincent Van Duysen",
+        "year": "2015",
+        "category": "Living storage units",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-surface-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 109,
+        "name": "Dado",
+        "designer": "Studio Kairos",
+        "year": "2007",
+        "category": "Living storage units",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-dado-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 110,
+        "name": "Shelf",
+        "designer": "Naoto Fukasawa",
+        "year": "2006",
+        "category": "Living storage units",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-shelf-contenitori-zona-giorno.html"
+    },
+    {
         "id": 111,
+        "name": "Shelf X",
+        "designer": "Naoto Fukasawa",
+        "year": "2005",
+        "category": "Living storage units",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-shelf-x-contenitori-zona-giorno.html"
+    },
+    {
+        "id": 112,
+        "name": "Ac Executive",
+        "designer": "Antonio Citterio",
+        "year": "2007",
+        "category": "Living storage units",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-ac-executive-contenitori.html"
+    },
+    {
+        "id": 113,
+        "name": "Surface",
+        "designer": "Vincent Van Duysen",
+        "year": "2010",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-surface-tavolini.html"
+    },
+    {
+        "id": 114,
+        "name": "Backstage - Backstage '18",
+        "designer": "Antonio Citterio",
+        "year": "2013",
+        "category": "Night storage units",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-backstage-contenitori-zona-notte.html"
+    },
+    {
+        "id": 115,
+        "name": "Quiet Lines writing-desk",
+        "designer": "Gabriel Tan",
+        "year": "2023",
+        "category": "Complements",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-quiet-lines-complementi-scrittoi.html"
+    },
+    {
+        "id": 116,
+        "name": "Quiet Lines bench",
+        "designer": "Gabriel Tan",
+        "year": "2023",
+        "category": "Complements",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-quiet-lines-complementi-panche.html"
+    },
+    {
+        "id": 117,
+        "name": "Quiet Lines screen",
+        "designer": "Gabriel Tan",
+        "year": "2023",
+        "category": "Complements",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-quiet-lines-complementi-paraventi.html"
+    },
+    {
+        "id": 118,
+        "name": "Bull",
+        "designer": "Naoto Fukasawa",
+        "year": "2019",
+        "category": "Complements",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-bull-complementi-panche.html"
+    },
+    {
+        "id": 119,
+        "name": "Gli Scacchi",
+        "designer": "Mario Bellini",
+        "year": "2020",
+        "category": "Complements",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-gli-scacchi-complementi.html"
+    },
+    {
+        "id": 120,
+        "name": "Mirto Indoor",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Complements",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-mirto-indoor-complementi-consoles.html"
+    },
+    {
+        "id": 121,
+        "name": "Eileen console",
+        "designer": "Antonio Citterio",
+        "year": "2003",
+        "category": "Complements",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-eileen-complementi-consoles.html"
+    },
+    {
+        "id": 122,
+        "name": "Eileen writing-desk",
+        "designer": "Antonio Citterio",
+        "year": "2004",
+        "category": "Complements",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-eileen-complementi-scrittoi.html"
+    },
+    {
+        "id": 123,
+        "name": "Frank '12",
+        "designer": "Antonio Citterio",
+        "year": "2012",
+        "category": "Complements",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-frank-12-complementi-consoles.html"
+    },
+    {
+        "id": 124,
+        "name": "Dip & Double Dip",
+        "designer": "Chris Howker",
+        "year": "2004",
+        "category": "Complements",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-dip-double-dip-complementi-panche.html"
+    },
+    {
+        "id": 125,
+        "name": "Madison",
+        "designer": "Monica Armani",
+        "year": "2017",
+        "category": "Complements",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-madison-complementi-specchi.html"
+    },
+    {
+        "id": 126,
+        "name": "Timo",
+        "designer": "Studio Juma",
+        "year": "2018",
+        "category": "Complements",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-timo-complementi-tappeti-beb.html"
+    },
+    {
+        "id": 127,
+        "name": "Joker",
+        "designer": "Nicole Äbischer",
+        "year": "2007",
+        "category": "Objects",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-joker-oggettistica.html"
+    },
+    {
+        "id": 128,
+        "name": "Overscale Flames",
+        "designer": "Jean-Marie Massaud",
+        "year": "2007",
+        "category": "Objects",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-overscale-flames-oggettistica.html"
+    },
+    {
+        "id": 129,
+        "name": "Bunch",
+        "designer": "Naoto Fukasawa",
+        "year": "2005",
+        "category": "Objects",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-bunch-oggettistica.html"
+    },
+    {
+        "id": 130,
+        "name": "Gold Collection",
+        "designer": "Marcel Wanders",
+        "year": "2007",
+        "category": "Objects",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-gold-collection-oggettistica.html"
+    },
+    {
+        "id": 131,
+        "name": "Inside",
+        "designer": "Naoto Fukasawa",
+        "year": "2005",
+        "category": "Objects",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-inside-oggettistica.html"
+    },
+    {
+        "id": 132,
+        "name": "Loop Medium",
+        "designer": "Jakob Wagner",
+        "year": "2007",
+        "category": "Objects",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-loop-medium-oggettistica.html"
+    },
+    {
+        "id": 133,
+        "name": "Lys",
+        "designer": "Jakob Wagner",
+        "year": "2007",
+        "category": "Objects",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-lys-oggettistica.html"
+    },
+    {
+        "id": 134,
+        "name": "Outside",
+        "designer": "Naoto Fukasawa",
+        "year": "2005",
+        "category": "Objects",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-outside-oggettistica.html"
+    },
+    {
+        "id": 135,
         "name": "Tetra",
         "designer": "Naoto Fukasawa",
         "year": "2005",
@@ -1332,7 +1620,7 @@
         "link": "https://www.bebitalia.com/en-us/en-tetra-oggettistica.html"
     },
     {
-        "id": 112,
+        "id": 136,
         "name": "Vertigo & Vertigo Round",
         "designer": "Naoto Fukasawa",
         "year": "2007",
@@ -1344,427 +1632,7 @@
         "link": "https://www.bebitalia.com/en-us/en-vertigo-vertigo-round-oggettistica.html"
     },
     {
-        "id": 113,
-        "name": "Erica '25",
-        "designer": "Antonio Citterio",
-        "year": "2025",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-25-divani.html"
-    },
-    {
-        "id": 114,
-        "name": "Erica '25 modular",
-        "designer": "Antonio Citterio",
-        "year": "2025",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-25-divani-componibile.html"
-    },
-    {
-        "id": 115,
-        "name": "Softcage",
-        "designer": "Mario Bellini",
-        "year": "2024",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-softcage-divani.html"
-    },
-    {
-        "id": 116,
-        "name": "Gio",
-        "designer": "Antonio Citterio",
-        "year": "2016",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-gio-divani.html"
-    },
-    {
-        "id": 117,
-        "name": "Nooch",
-        "designer": "Piero Lissoni",
-        "year": "2023",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-nooch-divani.html"
-    },
-    {
-        "id": 118,
-        "name": "Borea",
-        "designer": "Piero Lissoni",
-        "year": "2021",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-borea-divani.html"
-    },
-    {
-        "id": 119,
-        "name": "Pablo Outdoor",
-        "designer": "Vincent Van Duysen",
-        "year": "2022",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-pablo-outdoor-divani.html"
-    },
-    {
-        "id": 120,
-        "name": "Ribes",
-        "designer": "Antonio Citterio",
-        "year": "2019",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-ribes-divani.html"
-    },
-    {
-        "id": 121,
-        "name": "Erica",
-        "designer": "Antonio Citterio",
-        "year": "2017",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-divani.html"
-    },
-    {
-        "id": 122,
-        "name": "Hybrid",
-        "designer": "Antonio Citterio",
-        "year": "2020",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-hybrid-divani.html"
-    },
-    {
-        "id": 123,
-        "name": "Erica '19",
-        "designer": "Antonio Citterio",
-        "year": "2019",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-19-divani.html"
-    },
-    {
-        "id": 124,
-        "name": "Canasta '13",
-        "designer": "Patricia Urquiola",
-        "year": "2013",
-        "category": "Sofas",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-canasta-13-divani.html"
-    },
-    {
-        "id": 125,
-        "name": "Erica '25",
-        "designer": "Antonio Citterio",
-        "year": "2025",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-25-poltrone.html"
-    },
-    {
-        "id": 126,
-        "name": "La Bambola Outdoor",
-        "designer": "Mario Bellini",
-        "year": "2024",
-        "category": "Armchairs",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-la-bambola-outdoor-poltrone.html"
-    },
-    {
-        "id": 127,
-        "name": "Softcage",
-        "designer": "Mario Bellini",
-        "year": "2024",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-softcage-poltrone.html"
-    },
-    {
-        "id": 128,
-        "name": "Gio",
-        "designer": "Antonio Citterio",
-        "year": "2016",
-        "category": "Armchairs",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-gio-poltrone.html"
-    },
-    {
-        "id": 129,
-        "name": "Nooch",
-        "designer": "Piero Lissoni",
-        "year": "2023",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-nooch-poltrone.html"
-    },
-    {
-        "id": 130,
-        "name": "Cordoba Outdoor",
-        "designer": "Foster+Partners Industrial Design Studio",
-        "year": "2023",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-cordoba-outdoor-poltrone.html"
-    },
-    {
-        "id": 131,
-        "name": "Borea",
-        "designer": "Piero Lissoni",
-        "year": "2021",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-borea-poltrone.html"
-    },
-    {
-        "id": 132,
-        "name": "Pablo Outdoor",
-        "designer": "Vincent Van Duysen",
-        "year": "2022",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-pablo-outdoor-poltrone.html"
-    },
-    {
-        "id": 133,
-        "name": "Erica",
-        "designer": "Antonio Citterio",
-        "year": "2017",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-poltrone.html"
-    },
-    {
-        "id": 134,
-        "name": "Erica '19",
-        "designer": "Antonio Citterio",
-        "year": "2019",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-19-poltrone.html"
-    },
-    {
-        "id": 135,
-        "name": "Crinoline",
-        "designer": "Patricia Urquiola",
-        "year": "2008",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-crinoline-poltrone.html"
-    },
-    {
-        "id": 136,
-        "name": "Husk Outdoor",
-        "designer": "Patricia Urquiola",
-        "year": "2011",
-        "category": "Armchairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-husk-outdoor-poltrone.html"
-    },
-    {
         "id": 137,
-        "name": "Erica '25",
-        "designer": "Antonio Citterio",
-        "year": "2025",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-25-sedie.html"
-    },
-    {
-        "id": 138,
-        "name": "Gio",
-        "designer": "Antonio Citterio",
-        "year": "2016",
-        "category": "Chairs",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-gio-sedie.html"
-    },
-    {
-        "id": 139,
-        "name": "Erica",
-        "designer": "Antonio Citterio",
-        "year": "2017",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-sedie.html"
-    },
-    {
-        "id": 140,
-        "name": "Flair O' Outdoor",
-        "designer": "Monica Armani",
-        "year": "2023",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-flair-o-outdoor-sedie.html"
-    },
-    {
-        "id": 141,
-        "name": "Mirto Outdoor",
-        "designer": "Antonio Citterio",
-        "year": "2013",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-mirto-outdoor-sedie.html"
-    },
-    {
-        "id": 142,
-        "name": "Ginestra",
-        "designer": "Antonio Citterio",
-        "year": "2017",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-ginestra-sedie.html"
-    },
-    {
-        "id": 143,
-        "name": "Erica '19",
-        "designer": "Antonio Citterio",
-        "year": "2019",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-19-sedie.html"
-    },
-    {
-        "id": 144,
-        "name": "Husk Outdoor",
-        "designer": "Patricia Urquiola",
-        "year": "2011",
-        "category": "Chairs",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-husk-outdoor-sedie.html"
-    },
-    {
-        "id": 145,
-        "name": "Borea",
-        "designer": "Piero Lissoni",
-        "year": "2021",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-borea-sedie.html"
-    },
-    {
-        "id": 146,
-        "name": "Crinoline",
-        "designer": "Patricia Urquiola",
-        "year": "2008",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-crinoline-sedie.html"
-    },
-    {
-        "id": 147,
-        "name": "Ayana",
-        "designer": "Naoto Fukasawa",
-        "year": "2020",
-        "category": "Chairs",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-ayana-sedie.html"
-    },
-    {
-        "id": 148,
         "name": "Canasta '13",
         "designer": "Patricia Urquiola",
         "year": "2013",
@@ -1776,343 +1644,7 @@
         "link": "https://www.bebitalia.com/en-us/en-canasta-13-sedie.html"
     },
     {
-        "id": 149,
-        "name": "Erica '25",
-        "designer": "Antonio Citterio",
-        "year": "2025",
-        "category": "Sunbeds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-25-lettini.html"
-    },
-    {
-        "id": 150,
-        "name": "Gio",
-        "designer": "Antonio Citterio",
-        "year": "2016",
-        "category": "Sunbeds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-gio-lettini.html"
-    },
-    {
-        "id": 151,
-        "name": "Mirto Outdoor",
-        "designer": "Antonio Citterio",
-        "year": "2013",
-        "category": "Sunbeds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-mirto-outdoor-lettini.html"
-    },
-    {
-        "id": 152,
-        "name": "Borea",
-        "designer": "Piero Lissoni",
-        "year": "2022",
-        "category": "Sunbeds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-borea-lettini-ovali.html"
-    },
-    {
-        "id": 153,
-        "name": "Ray Outdoor Fabric",
-        "designer": "Antonio Citterio",
-        "year": "2017",
-        "category": "Sunbeds",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-ray-outdoor-fabric-lettini.html"
-    },
-    {
-        "id": 154,
-        "name": "Erica '25",
-        "designer": "Antonio Citterio",
-        "year": "2025",
-        "category": "Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-25-tavoli.html"
-    },
-    {
-        "id": 155,
-        "name": "Tobi-Ishi Outdoor",
-        "designer": "Edward Barber & Jay Osgerby",
-        "year": "2017",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-tobi-ishi-outdoor-tavoli.html"
-    },
-    {
-        "id": 156,
-        "name": "Gio",
-        "designer": "Antonio Citterio",
-        "year": "2016",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-gio-tavoli.html"
-    },
-    {
-        "id": 157,
-        "name": "Allure O' Outdoor",
-        "designer": "Monica Armani",
-        "year": "2023",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-allure-o-outdoor-tavoli.html"
-    },
-    {
-        "id": 158,
-        "name": "Mirto Outdoor",
-        "designer": "Antonio Citterio",
-        "year": "2013",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-mirto-outdoor-tavoli.html"
-    },
-    {
-        "id": 159,
-        "name": "Borea",
-        "designer": "Piero Lissoni",
-        "year": "2021",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-borea-tavoli.html"
-    },
-    {
-        "id": 160,
-        "name": "Pushpam",
-        "designer": "Naoto Fukasawa",
-        "year": "2018",
-        "category": "Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-pushpam-tavoli.html"
-    },
-    {
-        "id": 161,
-        "name": "Ginepro",
-        "designer": "Antonio Citterio",
-        "year": "2020",
-        "category": "Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-ginepro-tavoli.html"
-    },
-    {
-        "id": 162,
-        "name": "Link Outdoor",
-        "designer": "Jakob Wagner",
-        "year": "2009",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-link-outdoor-tavoli.html"
-    },
-    {
-        "id": 163,
-        "name": "Ginestra",
-        "designer": "Antonio Citterio",
-        "year": "2017",
-        "category": "Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-ginestra-tavoli.html"
-    },
-    {
-        "id": 164,
-        "name": "Cosmos Outdoor",
-        "designer": "Jeffrey Bernett",
-        "year": "2019",
-        "category": "Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-cosmos-outdoor-tavoli.html"
-    },
-    {
-        "id": 165,
-        "name": "Ayana",
-        "designer": "Naoto Fukasawa",
-        "year": "2020",
-        "category": "Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-ayana-tavoli.html"
-    },
-    {
-        "id": 166,
-        "name": "Erica '25",
-        "designer": "Antonio Citterio",
-        "year": "2025",
-        "category": "Small Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-erica-25-tavolini.html"
-    },
-    {
-        "id": 167,
-        "name": "Button Tables Outdoor",
-        "designer": "Edward Barber & Jay Osgerby",
-        "year": "2024",
-        "category": "Small Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-button-tables-outdoor-tavolini.html"
-    },
-    {
-        "id": 168,
-        "name": "Gio",
-        "designer": "Antonio Citterio",
-        "year": "2016",
-        "category": "Small Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-gio-tavolini.html"
-    },
-    {
-        "id": 169,
-        "name": "Tobi-Ishi Outdoor",
-        "designer": "Edward Barber & Jay Osgerby",
-        "year": "2018",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-tobi-ishi-outdoor-tavolini.html"
-    },
-    {
-        "id": 170,
-        "name": "Nooch",
-        "designer": "Piero Lissoni",
-        "year": "2023",
-        "category": "Small Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-nooch-tavolini.html"
-    },
-    {
-        "id": 171,
-        "name": "Borea",
-        "designer": "Piero Lissoni",
-        "year": "2021",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-borea-tavolini.html"
-    },
-    {
-        "id": 172,
-        "name": "Pablo Outdoor",
-        "designer": "Vincent Van Duysen",
-        "year": "2022",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-pablo-outdoor-tavolini.html"
-    },
-    {
-        "id": 173,
-        "name": "Fat-Fat Outdoor",
-        "designer": "Patricia Urquiola",
-        "year": "2019",
-        "category": "Small Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-fat-fat-outdoor-tavolini.html"
-    },
-    {
-        "id": 174,
-        "name": "Mirto Outdoor",
-        "designer": "Antonio Citterio",
-        "year": "2015",
-        "category": "Small Tables",
-        "description": "",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-us-mirto-outdoor-tavolini.html"
-    },
-    {
-        "id": 175,
-        "name": "Awa Outdoor",
-        "designer": "Naoto Fukasawa",
-        "year": "2009",
-        "category": "Small Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-awa-outdoor-tavolini.html"
-    },
-    {
-        "id": 176,
-        "name": "Canasta '13",
-        "designer": "Patricia Urquiola",
-        "year": "2013",
-        "category": "Small Tables",
-        "description": "No description available",
-        "technical_information": {
-            "": ""
-        },
-        "link": "https://www.bebitalia.com/en-us/en-canasta-13-tavolini.html"
-    },
-    {
-        "id": 177,
+        "id": 138,
         "name": "Canasta",
         "designer": "Patricia Urquiola",
         "year": "2007",
@@ -2124,7 +1656,907 @@
         "link": "https://www.bebitalia.com/en-us/en-canasta-tavolini.html"
     },
     {
+        "id": 139,
+        "name": "Canasta",
+        "designer": "Patricia Urquiola",
+        "year": "2007",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-canasta-poltrone.html"
+    },
+    {
+        "id": 140,
+        "name": "Borea",
+        "designer": "Piero Lissoni",
+        "year": "2021",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-borea-tavoli.html"
+    },
+    {
+        "id": 141,
+        "name": "Borea",
+        "designer": "Piero Lissoni",
+        "year": "2021",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-borea-poltrone.html"
+    },
+    {
+        "id": 142,
+        "name": "Tobi-Ishi Outdoor",
+        "designer": "Edward Barber & Jay Osgerby",
+        "year": "2017",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-tobi-ishi-outdoor-tavoli.html"
+    },
+    {
+        "id": 143,
+        "name": "Mirto Outdoor",
+        "designer": "Antonio Citterio",
+        "year": "2013",
+        "category": "Sunbeds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-mirto-outdoor-lettini.html"
+    },
+    {
+        "id": 144,
+        "name": "Ayana",
+        "designer": "Naoto Fukasawa",
+        "year": "2020",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-ayana-tavoli.html"
+    },
+    {
+        "id": 145,
+        "name": "Ray Outdoor Natural",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Armchairs",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-ray-outdoor-natural-poltrone.html"
+    },
+    {
+        "id": 146,
+        "name": "Erica '19",
+        "designer": "Antonio Citterio",
+        "year": "2019",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-19-divani.html"
+    },
+    {
+        "id": 147,
+        "name": "Erica",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-divani.html"
+    },
+    {
+        "id": 148,
+        "name": "Gio",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-gio-tavoli.html"
+    },
+    {
+        "id": 149,
+        "name": "Erica '25",
+        "designer": "Antonio Citterio",
+        "year": "2025",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-25-divani.html"
+    },
+    {
+        "id": 150,
+        "name": "Erica '25 modular",
+        "designer": "Antonio Citterio",
+        "year": "2025",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-25-divani-componibile.html"
+    },
+    {
+        "id": 151,
+        "name": "Softcage",
+        "designer": "Mario Bellini",
+        "year": "2024",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-softcage-divani.html"
+    },
+    {
+        "id": 152,
+        "name": "Gio",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-gio-divani.html"
+    },
+    {
+        "id": 153,
+        "name": "Nooch",
+        "designer": "Piero Lissoni",
+        "year": "2023",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-nooch-divani.html"
+    },
+    {
+        "id": 154,
+        "name": "Borea",
+        "designer": "Piero Lissoni",
+        "year": "2021",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-borea-divani.html"
+    },
+    {
+        "id": 155,
+        "name": "Pablo Outdoor",
+        "designer": "Vincent Van Duysen",
+        "year": "2022",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-pablo-outdoor-divani.html"
+    },
+    {
+        "id": 156,
+        "name": "Ribes",
+        "designer": "Antonio Citterio",
+        "year": "2019",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-ribes-divani.html"
+    },
+    {
+        "id": 157,
+        "name": "Erica",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-divani.html"
+    },
+    {
+        "id": 158,
+        "name": "Hybrid",
+        "designer": "Antonio Citterio",
+        "year": "2020",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-hybrid-divani.html"
+    },
+    {
+        "id": 159,
+        "name": "Erica '19",
+        "designer": "Antonio Citterio",
+        "year": "2019",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-19-divani.html"
+    },
+    {
+        "id": 160,
+        "name": "Canasta '13",
+        "designer": "Patricia Urquiola",
+        "year": "2013",
+        "category": "Sofas",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-canasta-13-divani.html"
+    },
+    {
+        "id": 161,
+        "name": "Erica '25",
+        "designer": "Antonio Citterio",
+        "year": "2025",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-25-poltrone.html"
+    },
+    {
+        "id": 162,
+        "name": "La Bambola Outdoor",
+        "designer": "Mario Bellini",
+        "year": "2024",
+        "category": "Armchairs",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-la-bambola-outdoor-poltrone.html"
+    },
+    {
+        "id": 163,
+        "name": "Softcage",
+        "designer": "Mario Bellini",
+        "year": "2024",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-softcage-poltrone.html"
+    },
+    {
+        "id": 164,
+        "name": "Gio",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Armchairs",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-gio-poltrone.html"
+    },
+    {
+        "id": 165,
+        "name": "Nooch",
+        "designer": "Piero Lissoni",
+        "year": "2023",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-nooch-poltrone.html"
+    },
+    {
+        "id": 166,
+        "name": "Cordoba Outdoor",
+        "designer": "Foster+Partners Industrial Design Studio",
+        "year": "2023",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-cordoba-outdoor-poltrone.html"
+    },
+    {
+        "id": 167,
+        "name": "Borea",
+        "designer": "Piero Lissoni",
+        "year": "2021",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-borea-poltrone.html"
+    },
+    {
+        "id": 168,
+        "name": "Pablo Outdoor",
+        "designer": "Vincent Van Duysen",
+        "year": "2022",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-pablo-outdoor-poltrone.html"
+    },
+    {
+        "id": 169,
+        "name": "Erica",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-poltrone.html"
+    },
+    {
+        "id": 170,
+        "name": "Erica '19",
+        "designer": "Antonio Citterio",
+        "year": "2019",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-19-poltrone.html"
+    },
+    {
+        "id": 171,
+        "name": "Crinoline",
+        "designer": "Patricia Urquiola",
+        "year": "2008",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-crinoline-poltrone.html"
+    },
+    {
+        "id": 172,
+        "name": "Husk Outdoor",
+        "designer": "Patricia Urquiola",
+        "year": "2011",
+        "category": "Armchairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-husk-outdoor-poltrone.html"
+    },
+    {
+        "id": 173,
+        "name": "Erica '25",
+        "designer": "Antonio Citterio",
+        "year": "2025",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-25-sedie.html"
+    },
+    {
+        "id": 174,
+        "name": "Gio",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Chairs",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-gio-sedie.html"
+    },
+    {
+        "id": 175,
+        "name": "Erica",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-sedie.html"
+    },
+    {
+        "id": 176,
+        "name": "Flair O' Outdoor",
+        "designer": "Monica Armani",
+        "year": "2023",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-flair-o-outdoor-sedie.html"
+    },
+    {
+        "id": 177,
+        "name": "Mirto Outdoor",
+        "designer": "Antonio Citterio",
+        "year": "2013",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-mirto-outdoor-sedie.html"
+    },
+    {
         "id": 178,
+        "name": "Ginestra",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-ginestra-sedie.html"
+    },
+    {
+        "id": 179,
+        "name": "Erica '19",
+        "designer": "Antonio Citterio",
+        "year": "2019",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-19-sedie.html"
+    },
+    {
+        "id": 180,
+        "name": "Husk Outdoor",
+        "designer": "Patricia Urquiola",
+        "year": "2011",
+        "category": "Chairs",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-husk-outdoor-sedie.html"
+    },
+    {
+        "id": 181,
+        "name": "Borea",
+        "designer": "Piero Lissoni",
+        "year": "2021",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-borea-sedie.html"
+    },
+    {
+        "id": 182,
+        "name": "Crinoline",
+        "designer": "Patricia Urquiola",
+        "year": "2008",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-crinoline-sedie.html"
+    },
+    {
+        "id": 183,
+        "name": "Ayana",
+        "designer": "Naoto Fukasawa",
+        "year": "2020",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-ayana-sedie.html"
+    },
+    {
+        "id": 184,
+        "name": "Canasta '13",
+        "designer": "Patricia Urquiola",
+        "year": "2013",
+        "category": "Chairs",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-canasta-13-sedie.html"
+    },
+    {
+        "id": 185,
+        "name": "Erica '25",
+        "designer": "Antonio Citterio",
+        "year": "2025",
+        "category": "Sunbeds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-25-lettini.html"
+    },
+    {
+        "id": 186,
+        "name": "Gio",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Sunbeds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-gio-lettini.html"
+    },
+    {
+        "id": 187,
+        "name": "Mirto Outdoor",
+        "designer": "Antonio Citterio",
+        "year": "2013",
+        "category": "Sunbeds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-mirto-outdoor-lettini.html"
+    },
+    {
+        "id": 188,
+        "name": "Borea",
+        "designer": "Piero Lissoni",
+        "year": "2022",
+        "category": "Sunbeds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-borea-lettini-ovali.html"
+    },
+    {
+        "id": 189,
+        "name": "Ray Outdoor Fabric",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Sunbeds",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-ray-outdoor-fabric-lettini.html"
+    },
+    {
+        "id": 190,
+        "name": "Erica '25",
+        "designer": "Antonio Citterio",
+        "year": "2025",
+        "category": "Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-25-tavoli.html"
+    },
+    {
+        "id": 191,
+        "name": "Tobi-Ishi Outdoor",
+        "designer": "Edward Barber & Jay Osgerby",
+        "year": "2017",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-tobi-ishi-outdoor-tavoli.html"
+    },
+    {
+        "id": 192,
+        "name": "Gio",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-gio-tavoli.html"
+    },
+    {
+        "id": 193,
+        "name": "Allure O' Outdoor",
+        "designer": "Monica Armani",
+        "year": "2023",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-allure-o-outdoor-tavoli.html"
+    },
+    {
+        "id": 194,
+        "name": "Mirto Outdoor",
+        "designer": "Antonio Citterio",
+        "year": "2013",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-mirto-outdoor-tavoli.html"
+    },
+    {
+        "id": 195,
+        "name": "Borea",
+        "designer": "Piero Lissoni",
+        "year": "2021",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-borea-tavoli.html"
+    },
+    {
+        "id": 196,
+        "name": "Pushpam",
+        "designer": "Naoto Fukasawa",
+        "year": "2018",
+        "category": "Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-pushpam-tavoli.html"
+    },
+    {
+        "id": 197,
+        "name": "Ginepro",
+        "designer": "Antonio Citterio",
+        "year": "2020",
+        "category": "Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-ginepro-tavoli.html"
+    },
+    {
+        "id": 198,
+        "name": "Link Outdoor",
+        "designer": "Jakob Wagner",
+        "year": "2009",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-link-outdoor-tavoli.html"
+    },
+    {
+        "id": 199,
+        "name": "Ginestra",
+        "designer": "Antonio Citterio",
+        "year": "2017",
+        "category": "Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-ginestra-tavoli.html"
+    },
+    {
+        "id": 200,
+        "name": "Cosmos Outdoor",
+        "designer": "Jeffrey Bernett",
+        "year": "2019",
+        "category": "Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-cosmos-outdoor-tavoli.html"
+    },
+    {
+        "id": 201,
+        "name": "Ayana",
+        "designer": "Naoto Fukasawa",
+        "year": "2020",
+        "category": "Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-ayana-tavoli.html"
+    },
+    {
+        "id": 202,
+        "name": "Erica '25",
+        "designer": "Antonio Citterio",
+        "year": "2025",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-erica-25-tavolini.html"
+    },
+    {
+        "id": 203,
+        "name": "Button Tables Outdoor",
+        "designer": "Edward Barber & Jay Osgerby",
+        "year": "2024",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-button-tables-outdoor-tavolini.html"
+    },
+    {
+        "id": 204,
+        "name": "Gio",
+        "designer": "Antonio Citterio",
+        "year": "2016",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-gio-tavolini.html"
+    },
+    {
+        "id": 205,
+        "name": "Tobi-Ishi Outdoor",
+        "designer": "Edward Barber & Jay Osgerby",
+        "year": "2018",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-tobi-ishi-outdoor-tavolini.html"
+    },
+    {
+        "id": 206,
+        "name": "Nooch",
+        "designer": "Piero Lissoni",
+        "year": "2023",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-nooch-tavolini.html"
+    },
+    {
+        "id": 207,
+        "name": "Borea",
+        "designer": "Piero Lissoni",
+        "year": "2021",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-borea-tavolini.html"
+    },
+    {
+        "id": 208,
+        "name": "Pablo Outdoor",
+        "designer": "Vincent Van Duysen",
+        "year": "2022",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-pablo-outdoor-tavolini.html"
+    },
+    {
+        "id": 209,
+        "name": "Fat-Fat Outdoor",
+        "designer": "Patricia Urquiola",
+        "year": "2019",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-fat-fat-outdoor-tavolini.html"
+    },
+    {
+        "id": 210,
+        "name": "Mirto Outdoor",
+        "designer": "Antonio Citterio",
+        "year": "2015",
+        "category": "Small Tables",
+        "description": "",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-us-mirto-outdoor-tavolini.html"
+    },
+    {
+        "id": 211,
+        "name": "Awa Outdoor",
+        "designer": "Naoto Fukasawa",
+        "year": "2009",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-awa-outdoor-tavolini.html"
+    },
+    {
+        "id": 212,
+        "name": "Canasta '13",
+        "designer": "Patricia Urquiola",
+        "year": "2013",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-canasta-13-tavolini.html"
+    },
+    {
+        "id": 213,
+        "name": "Canasta",
+        "designer": "Patricia Urquiola",
+        "year": "2007",
+        "category": "Small Tables",
+        "description": "No description available",
+        "technical_information": {
+            "": ""
+        },
+        "link": "https://www.bebitalia.com/en-us/en-canasta-tavolini.html"
+    },
+    {
+        "id": 214,
         "name": "Tramae",
         "designer": "Studio unPIZZO",
         "year": "2020",
@@ -2136,7 +2568,7 @@
         "link": "https://www.bebitalia.com/en-us/en-tramae-complementi-pouf.html"
     },
     {
-        "id": 179,
+        "id": 215,
         "name": "Frank Outdoor",
         "designer": "Antonio Citterio",
         "year": "2019",
@@ -2148,7 +2580,7 @@
         "link": "https://www.bebitalia.com/en-us/en-frank-outdoor-complementi-pouf.html"
     },
     {
-        "id": 180,
+        "id": 216,
         "name": "Hospes",
         "designer": "B&B Italia CR&S",
         "year": "2020",
@@ -2160,7 +2592,7 @@
         "link": "https://www.bebitalia.com/en-us/en-hospes-complementi-pouf.html"
     },
     {
-        "id": 181,
+        "id": 217,
         "name": "Tesa O'",
         "designer": "Monica Armani",
         "year": "2024",
@@ -2172,7 +2604,7 @@
         "link": "https://www.bebitalia.com/en-us/en-tesa-o-complementi-parasole.html"
     },
     {
-        "id": 182,
+        "id": 218,
         "name": "Gio",
         "designer": "Antonio Citterio",
         "year": "2016",
@@ -2184,7 +2616,7 @@
         "link": "https://www.bebitalia.com/en-us/en-gio-complementi-panche.html"
     },
     {
-        "id": 183,
+        "id": 219,
         "name": "Twist",
         "designer": "B&B Italia CR&S",
         "year": "2018",
@@ -2196,7 +2628,7 @@
         "link": "https://www.bebitalia.com/en-us/en-twist-complementi-tappeti.html"
     },
     {
-        "id": 184,
+        "id": 220,
         "name": "Mirto Outdoor",
         "designer": "Antonio Citterio",
         "year": "2015",
@@ -2208,7 +2640,7 @@
         "link": "https://www.bebitalia.com/en-us/en-us-mirto-outdoor-complementi-consoles.html"
     },
     {
-        "id": 185,
+        "id": 221,
         "name": "Kyra",
         "designer": "B&B Italia CR&S",
         "year": "2019",
@@ -2220,7 +2652,7 @@
         "link": "https://www.bebitalia.com/en-us/en-kyra-complementi-tappeti.html"
     },
     {
-        "id": 186,
+        "id": 222,
         "name": "Titikaka",
         "designer": "Naoto Fukasawa",
         "year": "2009",
@@ -2232,7 +2664,7 @@
         "link": "https://www.bebitalia.com/en-us/en-titikaka-complementi-panche.html"
     },
     {
-        "id": 187,
+        "id": 223,
         "name": "Piet",
         "designer": "B&B Italia CR&S",
         "year": "2021",
@@ -2244,7 +2676,7 @@
         "link": "https://www.bebitalia.com/en-us/en-piet-complementi-tappeti.html"
     },
     {
-        "id": 188,
+        "id": 224,
         "name": "Overscale Flames Outdoor",
         "designer": "Jean-Marie Massaud",
         "year": "2008",
@@ -2256,7 +2688,7 @@
         "link": "https://www.bebitalia.com/en-us/en-overscale-flames-outdoor-oggettistica.html"
     },
     {
-        "id": 189,
+        "id": 225,
         "name": "Springtime",
         "designer": "Jean-Marie Massaud",
         "year": "2008",
@@ -2268,7 +2700,7 @@
         "link": "https://www.bebitalia.com/en-us/en-springtime-oggettistica.html"
     },
     {
-        "id": 190,
+        "id": 226,
         "name": "White Collection",
         "designer": "Marcel Wanders",
         "year": "2008",
